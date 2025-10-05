@@ -1,0 +1,1143 @@
+species	strain	sex	two_choice	preference_index	%_feeding	assay_type
+D. sechellia	28	female	noni juice vs grape juice	-0.34782608695652173	0.9078947368421053	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	-0.6756756756756757	0.8705882352941177	72-well colorimetric
+D. sechellia	28	male	noni juice vs grape juice	-0.7230769230769231	0.8125	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.5394736842105263	0.987012987012987	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8813559322033898	0.7662337662337663	72-well colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.8676470588235294	0.9066666666666666	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.47368421052631576	0.9743589743589743	72-well colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.5245901639344263	0.7261904761904762	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.6309523809523809	1	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.6388888888888888	0.9473684210526316	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8461538461538461	0.9512195121951219	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.35064935064935066	0.9625	72-well colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.8378378378378378	0.961038961038961	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.7733333333333333	0.9493670886075949	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.7105263157894737	0.9047619047619048	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.36	0.9375	72-well colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.6206896551724138	0.7341772151898734	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.8607594936708861	0.9875	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.5	1	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.620253164556962	0.9875	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.922077922077922	0.9746835443037974	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.9154929577464788	0.9342105263157895	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.525	1	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.6962025316455697	0.9875	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.19230769230769232	0.975	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.1794871794871795	0.9873417721518988	72-well colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0.10909090909090909	0.7051282051282051	72-well colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.5161290322580645	0.7848101265822784	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.8607594936708861	0.9634146341463414	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.9054054054054054	0.9135802469135803	72-well colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0.136986301369863	0.8902439024390244	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.775	1	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.410958904109589	0.9733333333333334	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.44	0.9615384615384616	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.7307692307692307	0.9873417721518988	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.3815789473684211	0.95	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.6585365853658537	1	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.9493670886075948	0.9875	72-well colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0.01639344262295082	0.8026315789473684	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.9625	1	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.775	1	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.7530864197530864	1	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.5875	1	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.6329113924050633	1	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.8533333333333334	1	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.05	0.9876543209876543	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.9090909090909092	0.9871794871794872	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.03947368421052631	0.9382716049382716	72-well colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.8142857142857143	0.8860759493670887	72-well colorimetric
+D. sechellia	28	male	noni juice vs grape juice	-0.05797101449275362	0.8846153846153846	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.06666666666666667	0.9615384615384616	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.5822784810126582	0.9875	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.45	1	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.8961038961038961	0.9625	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.8701298701298701	0.9625	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.24050632911392408	1	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.5949367088607594	1	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.8589743589743589	0.9873417721518988	72-well colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.8831168831168831	0.9746835443037974	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.625	1	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.38666666666666666	0.9375	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.868421052631579	0.95	72-well colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.6515151515151515	0.868421052631579	72-well colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.6363636363636364	0.8571428571428572	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.05633802816901408	0.8987341772151899	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	-0.16	0.9375	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	-0.6962025316455697	1	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.01298701298701298	0.9625	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.26582278481012656	1	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	-0.6621621621621622	0.925	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.6794871794871795	0.975	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	-0.7121212121212122	0.868421052631579	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.625	1	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.7402597402597403	0.9871794871794872	72-well colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.6666666666666666	0.9873417721518988	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.16901408450704225	0.8987341772151899	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8311688311688312	0.9871794871794872	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.7012987012987013	0.9871794871794872	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.6375	1	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.6962025316455697	1	72-well colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.5138888888888888	0.9113924050632911	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.759493670886076	0.9875	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.11688311688311688	0.9746835443037974	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8493150684931506	0.9358974358974359	72-well colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.5833333333333334	0.9	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.35135135135135137	0.925	72-well colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.8333333333333334	0.9873417721518988	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.23684210526315788	0.9743589743589743	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8028169014084507	0.8987341772151899	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.7285714285714285	0.8860759493670887	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	-0.05263157894736842	0.95	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.06451612903225806	0.8157894736842105	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.5375	1	72-well colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.7662337662337663	0.9506172839506173	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.935897435897436	0.9873417721518988	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0	0.8987341772151899	72-well colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.796875	0.810126582278481	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.3974358974358974	0.9873417721518988	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.9605263157894736	0.95	72-well colorimetric
+D. sechellia	07	female	noni juice vs grape juice	-0.1282051282051282	0.975	72-well colorimetric
+D. sechellia	07	male	noni juice vs grape juice	-0.1044776119402985	0.8375	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.8125	1	72-well colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.55	1	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.620253164556962	0.9875	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.8846153846153846	1	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.9102564102564102	1	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.9375	1	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8974358974358975	0.975	72-well colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.6962025316455697	1	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.9473684210526316	0.987012987012987	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.9722222222222222	0.9	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8333333333333334	0.825	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.9594594594594594	0.9487179487179487	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.9027777777777778	0.9230769230769231	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.7285714285714285	0.9210526315789473	72-well colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.8607594936708861	1	72-well colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.1643835616438356	0.9125	72-well colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.9746835443037974	0.9875	72-well colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.92	0.9493670886075949	72-well colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.6595744680851063	0.6025641025641026	72-well colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.8309859154929577	0.9102564102564102	72-well colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.2777777777777778	0.9	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.6875	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.125	0.8888888888888888	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.05555555555555555	0.9	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.8333333333333334	0.9	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.7647058823529411	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.7647058823529411	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.4666666666666667	0.75	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.09999999999999998	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.5384615384615384	0.65	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.7777777777777778	0.44999999999999996	petri dish colorimetric
+D. melanogaster	w1118	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.19999999999999996	petri dish colorimetric
+D. melanogaster	w1118	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.15000000000000002	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.5	0.30000000000000004	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.75	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.5454545454545454	0.55	petri dish colorimetric
+D. melanogaster	w1118	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.050000000000000044	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.38461538461538464	0.65	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.16666666666666666	0.30000000000000004	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.15000000000000002	petri dish colorimetric
+D. melanogaster	w1118	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.050000000000000044	petri dish colorimetric
+D. melanogaster	w1118	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.25	petri dish colorimetric
+D. melanogaster	w1118	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.19999999999999996	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.0625	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.2307692307692308	0.65	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.55	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.10526315789473684	0.95	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.06666666666666667	0.75	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.2222222222222222	0.9	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.29411764705882354	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.16666666666666666	0.9	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.16666666666666666	0.9	petri dish colorimetric
+D. melanogaster	w1118	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.09999999999999998	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.21428571428571427	0.7	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.09090909090909093	0.55	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.1	0.5	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.375	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.17647058823529413	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.42857142857142855	0.35	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.18181818181818185	0.55	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.5	0.4	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.4375	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.2307692307692308	0.65	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.3333333333333333	0.75	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.3636363636363637	0.55	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.625	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.5555555555555556	0.44999999999999996	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.3333333333333333	0.6666666666666667	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.2352941176470588	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.7	1	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.17647058823529413	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.29411764705882354	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.875	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.07142857142857142	0.7	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.35714285714285715	0.7	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-1	0.30000000000000004	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.15384615384615383	0.65	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.9	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.375	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.8461538461538461	0.7222222222222222	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.9411764705882352	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.38461538461538464	0.65	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.375	0.8	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.5555555555555556	0.9	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.05263157894736842	0.95	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.7894736842105263	0.95	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.5294117647058824	0.85	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.4	0.5	petri dish colorimetric
+D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a-DELTA3	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.5	0.7619047619047619	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.b/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.25	0.4	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.b/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.42857142857142855	0.35	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.a/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.2222222222222222	0.44999999999999996	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.a/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.2727272727272727	0.6111111111111112	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.a/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.3	0.625	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.b/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.15384615384615383	0.8666666666666667	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.b/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.16666666666666666	0.30000000000000004	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.b/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	1	0.050000000000000044	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.a/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.1578947368421053	petri dish colorimetric
+D. sechellia	w*;;Gr66a-GAL4/+;UAS-Dmel-Gr39a.a/+	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.6666666666666666	0.15000000000000002	petri dish colorimetric
+D. sechellia	30	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.25	petri dish colorimetric
+D. sechellia	30	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.09999999999999998	petri dish colorimetric
+D. sechellia	30	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.5	0.09999999999999998	petri dish colorimetric
+D. sechellia	30	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0	0.19047619047619047	petri dish colorimetric
+D. sechellia	30	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	-0.6666666666666666	0.15000000000000002	petri dish colorimetric
+D. sechellia	30	female	5mM sucrose, 10mM caffeine vs 2mM sucrose	0.18181818181818185	0.55	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	0	0.9473684210526316	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.55	1	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.3888888888888889	0.9	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.4444444444444444	0.9	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.55	1	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.42105263157894735	1	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.5294117647058824	0.85	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.05	0.9523809523809523	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	0.16666666666666666	0.9	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.35	1	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.2857142857142857	0.9545454545454546	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	0	0.7894736842105263	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.3333333333333333	0.9473684210526316	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.5	0.736842105263158	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	0	0.30000000000000004	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	0.1	1	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	0	0.95	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	0.3333333333333333	0.631578947368421	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.6	1	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.45	1	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.42105263157894735	0.95	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.45	1	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.4117647058823529	0.85	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.4	1	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.3	0.5263157894736843	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.0625	0.8	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.7	1	petri dish colorimetric
+D. simulans ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.5789473684210527	1	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.35294117647058826	0.85	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.65	1	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	0	0.6	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.05555555555555555	0.9	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.4444444444444444	0.9	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.5	1	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.5263157894736842	1	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.4375	0.8	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.125	0.8	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	male	noni juice vs grape juice	-0.4	0.7142857142857143	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.5333333333333333	0.75	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.15789473684210523	0.95	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.4444444444444444	0.9	petri dish colorimetric
+D. melanogaster ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.3333333333333333	0.9	petri dish colorimetric
+D. sechellia ANTENNAE REMOVED	w*;;Orco-	female	noni juice vs grape juice	-0.0588235294117647	0.85	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	0.8	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.7	0.5	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	1	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	1	0.42105263157894735	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9375	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	1	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	1	0.6	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.5263157894736842	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.47368421052631576	0.95	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	1	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.5	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	1	0.10526315789473684	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0	0.75	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0	0.7619047619047619	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.05263157894736842	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.15384615384615383	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.25	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.1111111111111111	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.6666666666666666	0.15000000000000002	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.9411764705882352	0.85	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.9166666666666666	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.4666666666666667	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.5555555555555556	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.8947368421052632	0.95	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	0.7142857142857143	0.35	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.25	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.5333333333333333	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.6	0.75	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	0	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.5	0.8	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.5833333333333334	0.6	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.875	0.8	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-1	0.6	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-1	0.6	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	0.3333333333333333	0.15000000000000002	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	0	0.050000000000000044	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.9375	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-1	0.631578947368421	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.75	0.21052631578947367	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.7692307692307693	0.6842105263157895	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.6153846153846154	0.65	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-1	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	0.8	0.25	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.5	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.8888888888888888	0.5	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.631578947368421	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.3333333333333333	0.5294117647058824	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.8125	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	1	0.6875	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.75	0.8	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.9	0.5263157894736843	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.8	0.5	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.9444444444444444	0.8571428571428572	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.7857142857142857	0.736842105263158	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	1	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM caffeine vs 5mM sucrose	0.6153846153846154	0.7222222222222222	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.85	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.8888888888888888	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.8888888888888888	0.9	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	0.7857142857142857	0.7	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.35	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.9411764705882353	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.8888888888888888	0.5294117647058824	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.5	0.4444444444444444	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.7777777777777778	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	1	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	0.6153846153846154	0.65	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	1	0.6	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	0	0.2777777777777778	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	0.6666666666666666	0.3157894736842105	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 25mM caffeine vs 5mM sucrose	-0.6666666666666666	0.30000000000000004	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-1	0.7	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-1	0.4	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.8666666666666667	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	1	0.368421052631579	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	0.6363636363636364	0.5789473684210527	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	0.8	0.5263157894736843	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-1	0.3157894736842105	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.2	0.25	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 50mM caffeine vs 5mM sucrose	-0.8888888888888888	0.4736842105263158	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.5833333333333334	0.6	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.85	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.8461538461538461	0.65	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.8461538461538461	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.875	0.8888888888888888	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9375	0.8421052631578947	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9166666666666666	0.8571428571428572	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM caffeine vs 5mM sucrose	1	0.5	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	0.8	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.7	0.5	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	1	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	1	0.42105263157894735	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9375	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	1	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	1	0.6	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	0	0.8	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.050000000000000044	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.4	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.631578947368421	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.8888888888888888	0.9	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.6	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.9090909090909092	0.55	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.9090909090909092	0.55	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.5625	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.7692307692307693	0.65	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	0.3333333333333333	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.736842105263158	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.95	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	0.6	0.75	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.6	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.4736842105263158	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.7	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.8	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-0.6	0.5263157894736843	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-0.75	0.8	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-0.6666666666666666	0.4736842105263158	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.368421052631579	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.4	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM coumarin vs 5mM sucrose	-1	0.33333333333333337	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.6153846153846154	0.6842105263157895	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.4666666666666667	0.75	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.6111111111111112	1	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.6923076923076923	0.6842105263157895	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.9	0.5263157894736843	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.875	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.8	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.4166666666666667	0.6666666666666667	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 1mM coumarin vs 5mM sucrose	0.6	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.5	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.9	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.736842105263158	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-0.9444444444444444	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	-1	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	0.6	0.5263157894736843	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	0.09090909090909093	0.55	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 5mM coumarin vs 5mM sucrose	0.5	0.736842105263158	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.5833333333333334	0.6	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.85	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.8461538461538461	0.65	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.8461538461538461	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.875	0.8888888888888888	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9375	0.8421052631578947	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9166666666666666	0.8571428571428572	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.050000000000000044	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.050000000000000044	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.8	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.5	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 10mM denatonium benzoate vs 5mM sucrose	-1	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM fructose vs 2mM fructose	-0.6666666666666666	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	female	5mM fructose vs 2mM fructose	0	0.19999999999999996	petri dish colorimetric
+D. simulans	04	female	5mM fructose vs 2mM fructose	0.375	0.4	petri dish colorimetric
+D. sechellia	07	female	5mM fructose vs 2mM fructose	0	0.15000000000000002	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM fructose vs 2mM fructose	-0.5	0.09999999999999998	petri dish colorimetric
+D. simulans	04	female	5mM fructose vs 2mM fructose	0.5	0.19999999999999996	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM fructose vs 2mM fructose	-1	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	male	5mM fructose vs 2mM fructose	-0.875	0.4	petri dish colorimetric
+D. simulans	04	male	5mM fructose vs 2mM fructose	-0.25	0.6666666666666667	petri dish colorimetric
+D. sechellia	07	female	5mM fructose vs 2mM fructose	-0.6	0.25	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM fructose vs 2mM fructose	-0.75	0.19999999999999996	petri dish colorimetric
+D. sechellia	07	male	5mM fructose vs 2mM fructose	-1	0.25	petri dish colorimetric
+D. simulans	04	male	5mM fructose vs 2mM fructose	-0.7142857142857143	0.7	petri dish colorimetric
+D. sechellia	07	male	5mM fructose vs 2mM fructose	-0.6	0.25	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM fructose vs 2mM fructose	-0.6666666666666666	0.2857142857142857	petri dish colorimetric
+D. simulans	04	male	5mM fructose vs 2mM fructose	0	0.35	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM fructose vs 2mM fructose	0	0.09999999999999998	petri dish colorimetric
+D. simulans	04	female	5mM fructose vs 2mM fructose	0	0.10526315789473684	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM fructose vs 5mM fructose	0.8888888888888888	0.9	petri dish colorimetric
+D. sechellia	07	male	50mM fructose vs 5mM fructose	0.9333333333333332	0.75	petri dish colorimetric
+D. simulans	04	male	50mM fructose vs 5mM fructose	1	0.8	petri dish colorimetric
+D. simulans	04	female	50mM fructose vs 5mM fructose	1	0.7619047619047619	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM fructose vs 5mM fructose	0.8823529411764706	0.85	petri dish colorimetric
+D. sechellia	07	male	50mM fructose vs 5mM fructose	1	0.55	petri dish colorimetric
+D. sechellia	07	male	50mM fructose vs 5mM fructose	0.875	0.4	petri dish colorimetric
+D. sechellia	07	female	50mM fructose vs 5mM fructose	1	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	female	50mM fructose vs 5mM fructose	0.8333333333333334	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	female	50mM fructose vs 5mM fructose	0.8888888888888888	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	male	500mM fructose vs 5mM fructose	1	0.4	petri dish colorimetric
+D. simulans	04	male	500mM fructose vs 5mM fructose	0.9444444444444444	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM fructose vs 5mM fructose	0.875	0.4	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM fructose vs 5mM fructose	1	0.44999999999999996	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM fructose vs 5mM fructose	1	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM fructose vs 5mM fructose	1	0.631578947368421	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM fructose vs 5mM fructose	1	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM fructose vs 5mM fructose	1	0.9473684210526316	petri dish colorimetric
+D. sechellia	07	male	500mM fructose vs 5mM fructose	1	0.2857142857142857	petri dish colorimetric
+D. sechellia	07	female	500mM fructose vs 5mM fructose	0.75	0.19999999999999996	petri dish colorimetric
+D. sechellia	07	female	500mM fructose vs 5mM fructose	1	0.4736842105263158	petri dish colorimetric
+D. sechellia	07	female	500mM fructose vs 5mM fructose	1	0.6666666666666667	petri dish colorimetric
+D. simulans	04	male	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. simulans	04	male	500mM fructose vs 5mM fructose	0.9285714285714286	0.7	petri dish colorimetric
+D. simulans	04	female	500mM fructose vs 5mM fructose	1	0.8	petri dish colorimetric
+D. simulans	04	female	500mM fructose vs 5mM fructose	1	0.9	petri dish colorimetric
+D. simulans	04	female	500mM fructose vs 5mM fructose	1	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM fructose vs 5mM fructose	1	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM fructose vs 5mM fructose	0.9444444444444444	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM fructose vs 5mM fructose	1	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM fructose vs 5mM fructose	0.9411764705882352	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM fructose vs 5mM fructose	1	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM fructose vs 5mM fructose	0.9375	0.8	petri dish colorimetric
+D. simulans	04	female	200mM fructose vs 5mM fructose	0.8823529411764706	0.85	petri dish colorimetric
+D. simulans	04	female	200mM fructose vs 5mM fructose	0.9473684210526316	0.95	petri dish colorimetric
+D. simulans	04	female	200mM fructose vs 5mM fructose	1	0.75	petri dish colorimetric
+D. simulans	04	male	200mM fructose vs 5mM fructose	0.8823529411764706	0.85	petri dish colorimetric
+D. simulans	04	male	200mM fructose vs 5mM fructose	0.9166666666666666	0.5714285714285714	petri dish colorimetric
+D. sechellia	07	female	200mM fructose vs 5mM fructose	0.95	1	petri dish colorimetric
+D. sechellia	07	female	200mM fructose vs 5mM fructose	0.9473684210526316	1	petri dish colorimetric
+D. sechellia	07	female	200mM fructose vs 5mM fructose	1	0.95	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	0.8823529411764706	0.85	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	0.75	0.8	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	0.6842105263157895	0.95	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	0.7272727272727273	0.55	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	1	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	female	200mM fructose vs 5mM fructose	0.9090909090909092	0.55	petri dish colorimetric
+D. sechellia	07	female	200mM fructose vs 5mM fructose	1	0.4	petri dish colorimetric
+D. simulans	04	female	200mM fructose vs 5mM fructose	1	0.5789473684210527	petri dish colorimetric
+D. simulans	04	female	200mM fructose vs 5mM fructose	1	0.631578947368421	petri dish colorimetric
+D. simulans	04	female	200mM fructose vs 5mM fructose	1	0.9	petri dish colorimetric
+D. simulans	04	female	200mM fructose vs 5mM fructose	1	0.55	petri dish colorimetric
+D. simulans	04	male	200mM fructose vs 5mM fructose	1	0.95	petri dish colorimetric
+D. simulans	04	male	200mM fructose vs 5mM fructose	1	0.85	petri dish colorimetric
+D. simulans	04	male	200mM fructose vs 5mM fructose	1	0.9	petri dish colorimetric
+D. simulans	04	male	200mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. sechellia	07	female	50mM fructose vs 5mM fructose	0.8333333333333334	0.30000000000000004	petri dish colorimetric
+D. simulans	04	female	50mM fructose vs 5mM fructose	1	0.4	petri dish colorimetric
+D. simulans	04	male	50mM fructose vs 5mM fructose	1	0.8947368421052632	petri dish colorimetric
+D. simulans	04	male	50mM fructose vs 5mM fructose	1	0.8888888888888888	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM fructose vs 5mM fructose	1	0.6842105263157895	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM fructose vs 5mM fructose	1	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM fructose vs 5mM fructose	0.7857142857142857	0.6666666666666667	petri dish colorimetric
+D. sechellia	07	female	50mM fructose vs 5mM fructose	0.8666666666666667	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM fructose vs 5mM fructose	1	0.15000000000000002	petri dish colorimetric
+D. sechellia	07	male	50mM fructose vs 5mM fructose	1	0.25	petri dish colorimetric
+D. sechellia	07	male	50mM fructose vs 5mM fructose	1	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	male	50mM fructose vs 5mM fructose	1	0.368421052631579	petri dish colorimetric
+D. simulans	04	female	50mM fructose vs 5mM fructose	1	0.5	petri dish colorimetric
+D. simulans	04	female	50mM fructose vs 5mM fructose	1	0.10526315789473684	petri dish colorimetric
+D. simulans	04	male	50mM fructose vs 5mM fructose	1	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM fructose vs 5mM fructose	1	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM fructose vs 5mM fructose	1	0.95	petri dish colorimetric
+D. simulans	04	female	5mM fructose vs 2mM fructose	-1	0.09999999999999998	petri dish colorimetric
+D. simulans	04	female	5mM fructose vs 2mM fructose	-0.3333333333333333	0.15000000000000002	petri dish colorimetric
+D. simulans	04	female	5mM fructose vs 2mM fructose	0.14285714285714285	0.35	petri dish colorimetric
+D. simulans	04	male	5mM fructose vs 2mM fructose	-1	0.25	petri dish colorimetric
+D. simulans	04	male	5mM fructose vs 2mM fructose	-1	0.44999999999999996	petri dish colorimetric
+D. simulans	04	male	5mM fructose vs 2mM fructose	-1	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	female	5mM fructose vs 2mM fructose	-1	0.050000000000000044	petri dish colorimetric
+D. sechellia	07	male	5mM fructose vs 2mM fructose	-1	0.10526315789473684	petri dish colorimetric
+D. sechellia	07	male	5mM fructose vs 2mM fructose	-0.3333333333333333	0.30000000000000004	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM fructose vs 5mM fructose	0.9411764705882352	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM fructose vs 5mM fructose	0.8421052631578947	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM fructose vs 5mM fructose	1	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM fructose vs 5mM fructose	0.9166666666666666	0.631578947368421	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM fructose vs 5mM fructose	0.6428571428571429	0.7	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM fructose vs 5mM fructose	0.9473684210526316	0.95	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	0.6666666666666666	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	0.2	0.25	petri dish colorimetric
+D. sechellia	07	male	200mM fructose vs 5mM fructose	0.5833333333333334	0.6	petri dish colorimetric
+D. sechellia	07	female	500mM fructose vs 5mM fructose	1	0.631578947368421	petri dish colorimetric
+D. sechellia	07	female	500mM fructose vs 5mM fructose	1	0.7	petri dish colorimetric
+D. sechellia	07	female	500mM fructose vs 5mM fructose	1	0.8333333333333334	petri dish colorimetric
+D. sechellia	07	male	500mM fructose vs 5mM fructose	0.9333333333333332	0.75	petri dish colorimetric
+D. sechellia	07	male	500mM fructose vs 5mM fructose	1	0.9444444444444444	petri dish colorimetric
+D. sechellia	07	male	500mM fructose vs 5mM fructose	0.9166666666666666	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM fructose vs 5mM fructose	1	0.95	petri dish colorimetric
+D. simulans	04	female	500mM fructose vs 5mM fructose	0.9375	0.8	petri dish colorimetric
+D. simulans	04	female	500mM fructose vs 5mM fructose	1	0.6111111111111112	petri dish colorimetric
+D. simulans	04	female	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. simulans	04	male	500mM fructose vs 5mM fructose	1	0.9444444444444444	petri dish colorimetric
+D. simulans	04	male	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. simulans	04	male	500mM fructose vs 5mM fructose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM fructose vs 5mM fructose	1	0.5263157894736843	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM fructose vs 5mM fructose	1	0.5555555555555556	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM fructose vs 5mM fructose	1	0.95	petri dish colorimetric
+D. simulans	04	female	50mM fructose vs 5mM fructose	1	0.6666666666666667	petri dish colorimetric
+D. simulans	04	female	50mM fructose vs 5mM fructose	0.8666666666666667	0.8333333333333334	petri dish colorimetric
+D. simulans	04	male	50mM fructose vs 5mM fructose	1	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM fructose vs 2mM fructose	-0.8333333333333334	0.3157894736842105	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM fructose vs 2mM fructose	-0.75	0.19999999999999996	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM fructose vs 2mM fructose	-1	0.052631578947368474	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM fructose vs 2mM fructose	-0.5714285714285714	0.38888888888888884	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM fructose vs 2mM fructose	-1	0.21052631578947367	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM fructose vs 2mM fructose	-1	0.21052631578947367	petri dish colorimetric
+D. sechellia	07	female	5mM fructose vs 2mM fructose	1	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	female	5mM fructose vs 2mM fructose	0.6666666666666666	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	male	5mM fructose vs 2mM fructose	0	0.10526315789473684	petri dish colorimetric
+D. sechellia	07	male	5mM fructose vs 2mM fructose	-1	0.052631578947368474	petri dish colorimetric
+D. simulans	04	male	5mM glucose vs 2mM glucose	-0.25	0.19999999999999996	petri dish colorimetric
+D. sechellia	07	male	5mM glucose vs 2mM glucose	-0.25	0.19999999999999996	petri dish colorimetric
+D. simulans	04	male	5mM glucose vs 2mM glucose	0	0.35	petri dish colorimetric
+D. sechellia	07	male	5mM glucose vs 2mM glucose	0	0.09999999999999998	petri dish colorimetric
+D. simulans	04	male	5mM glucose vs 2mM glucose	0.3333333333333333	0.15000000000000002	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM glucose vs 2mM glucose	-0.8333333333333334	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	male	5mM glucose vs 2mM glucose	-1	0.050000000000000044	petri dish colorimetric
+D. simulans	04	female	5mM glucose vs 2mM glucose	-0.2	0.25	petri dish colorimetric
+D. simulans	04	female	5mM glucose vs 2mM glucose	-0.3333333333333333	0.1578947368421053	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM glucose vs 2mM glucose	-1	0.050000000000000044	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM glucose vs 2mM glucose	-1	0.050000000000000044	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM glucose vs 2mM glucose	-1	0.25	petri dish colorimetric
+D. simulans	04	female	5mM glucose vs 2mM glucose	0.25	0.19999999999999996	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	1	0.15000000000000002	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	1	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	1	0.050000000000000044	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM glucose vs 5mM glucose	0.9285714285714286	0.7	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM glucose vs 5mM glucose	1	0.65	petri dish colorimetric
+D. simulans	04	female	50mM glucose vs 5mM glucose	0.6428571428571429	0.7	petri dish colorimetric
+D. simulans	04	female	50mM glucose vs 5mM glucose	0.8333333333333334	0.30000000000000004	petri dish colorimetric
+D. simulans	04	female	50mM glucose vs 5mM glucose	0.7142857142857143	0.35	petri dish colorimetric
+D. simulans	04	male	50mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	50mM glucose vs 5mM glucose	0.9473684210526316	0.95	petri dish colorimetric
+D. simulans	04	male	50mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. sechellia	07	male	50mM glucose vs 5mM glucose	1	0.19999999999999996	petri dish colorimetric
+D. sechellia	07	male	50mM glucose vs 5mM glucose	1	0.050000000000000044	petri dish colorimetric
+D. sechellia	07	male	50mM glucose vs 5mM glucose	1	0.15000000000000002	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM glucose vs 5mM glucose	1	0.25	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM glucose vs 5mM glucose	1	0.25	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM glucose vs 5mM glucose	1	0.25	petri dish colorimetric
+D. sechellia	07	male	500mM glucose vs 5mM glucose	1	0.85	petri dish colorimetric
+D. sechellia	07	male	500mM glucose vs 5mM glucose	1	0.8421052631578947	petri dish colorimetric
+D. sechellia	07	female	500mM glucose vs 5mM glucose	1	0.65	petri dish colorimetric
+D. sechellia	07	female	500mM glucose vs 5mM glucose	0.9473684210526316	0.95	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	0.8	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	0.8947368421052632	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM glucose vs 5mM glucose	1	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM glucose vs 5mM glucose	0.9473684210526316	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM glucose vs 5mM glucose	0.9375	0.8421052631578947	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM glucose vs 5mM glucose	1	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM glucose vs 5mM glucose	1	0.8421052631578947	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM glucose vs 5mM glucose	0.9473684210526316	0.95	petri dish colorimetric
+D. simulans	04	female	200mM glucose vs 5mM glucose	0.8888888888888888	0.9	petri dish colorimetric
+D. simulans	04	female	200mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. simulans	04	female	200mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	200mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	200mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. simulans	04	male	200mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. sechellia	07	female	200mM glucose vs 5mM glucose	1	0.75	petri dish colorimetric
+D. sechellia	07	female	200mM glucose vs 5mM glucose	0.875	0.8	petri dish colorimetric
+D. sechellia	07	female	200mM glucose vs 5mM glucose	1	0.85	petri dish colorimetric
+D. sechellia	07	male	200mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. sechellia	07	male	200mM glucose vs 5mM glucose	0.8	0.75	petri dish colorimetric
+D. sechellia	07	male	200mM glucose vs 5mM glucose	0.9375	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM glucose vs 5mM glucose	1	0.8888888888888888	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM glucose vs 5mM glucose	1	0.8421052631578947	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM glucose vs 5mM glucose	1	0.75	petri dish colorimetric
+D. simulans	04	male	200mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	200mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	200mM glucose vs 5mM glucose	1	0.8421052631578947	petri dish colorimetric
+D. sechellia	07	female	200mM glucose vs 5mM glucose	0.7142857142857143	0.38888888888888884	petri dish colorimetric
+D. sechellia	07	female	200mM glucose vs 5mM glucose	0.7692307692307693	0.7647058823529411	petri dish colorimetric
+D. sechellia	07	male	200mM glucose vs 5mM glucose	1	0.7894736842105263	petri dish colorimetric
+D. sechellia	07	male	200mM glucose vs 5mM glucose	1	0.9473684210526316	petri dish colorimetric
+D. sechellia	07	male	200mM glucose vs 5mM glucose	1	0.65	petri dish colorimetric
+D. simulans	04	female	200mM glucose vs 5mM glucose	1	0.5	petri dish colorimetric
+D. simulans	04	female	200mM glucose vs 5mM glucose	1	0.8421052631578947	petri dish colorimetric
+D. simulans	04	female	200mM glucose vs 5mM glucose	1	0.65	petri dish colorimetric
+D. sechellia	07	female	200mM glucose vs 5mM glucose	1	0.368421052631579	petri dish colorimetric
+D. simulans	04	male	50mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. simulans	04	male	50mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	50mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. simulans	04	female	50mM glucose vs 5mM glucose	1	0.55	petri dish colorimetric
+D. simulans	04	female	50mM glucose vs 5mM glucose	1	0.8	petri dish colorimetric
+D. simulans	04	female	50mM glucose vs 5mM glucose	0.9166666666666666	0.631578947368421	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	1	0.21052631578947367	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	0.6666666666666666	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	0.8571428571428571	0.35	petri dish colorimetric
+D. sechellia	07	male	50mM glucose vs 5mM glucose	0.8571428571428571	0.35	petri dish colorimetric
+D. sechellia	07	male	50mM glucose vs 5mM glucose	0.8333333333333334	0.33333333333333337	petri dish colorimetric
+D. sechellia	07	male	50mM glucose vs 5mM glucose	1	0.25	petri dish colorimetric
+D. simulans	04	female	5mM glucose vs 2mM glucose	1	0.050000000000000044	petri dish colorimetric
+D. simulans	04	male	5mM glucose vs 2mM glucose	0.7777777777777778	0.44999999999999996	petri dish colorimetric
+D. simulans	04	male	5mM glucose vs 2mM glucose	0.14285714285714285	0.35	petri dish colorimetric
+D. sechellia	07	male	5mM glucose vs 2mM glucose	-1	0.050000000000000044	petri dish colorimetric
+D. sechellia	07	male	5mM glucose vs 2mM glucose	1	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	female	5mM glucose vs 2mM glucose	0	0.2222222222222222	petri dish colorimetric
+D. sechellia	07	female	5mM glucose vs 2mM glucose	-0.2	0.25	petri dish colorimetric
+D. sechellia	07	female	5mM glucose vs 2mM glucose	1	0.5	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM glucose vs 5mM glucose	1	0.8947368421052632	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM glucose vs 5mM glucose	1	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM glucose vs 5mM glucose	1	0.95	petri dish colorimetric
+D. sechellia	07	male	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. sechellia	07	male	500mM glucose vs 5mM glucose	0.8888888888888888	0.5	petri dish colorimetric
+D. sechellia	07	male	500mM glucose vs 5mM glucose	1	0.4	petri dish colorimetric
+D. sechellia	07	female	500mM glucose vs 5mM glucose	0.9333333333333332	0.75	petri dish colorimetric
+D. sechellia	07	female	500mM glucose vs 5mM glucose	0.9375	0.8	petri dish colorimetric
+D. sechellia	07	female	500mM glucose vs 5mM glucose	1	0.4	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	male	500mM glucose vs 5mM glucose	1	1	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	0.6	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	0.7	petri dish colorimetric
+D. simulans	04	female	500mM glucose vs 5mM glucose	1	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	0.5	0.2222222222222222	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	0.7692307692307693	0.65	petri dish colorimetric
+D. sechellia	07	female	50mM glucose vs 5mM glucose	0.3076923076923077	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM glucose vs 5mM glucose	0.7777777777777778	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM glucose vs 5mM glucose	0.5	0.6666666666666667	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM glucose vs 5mM glucose	0.5	0.8888888888888888	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM glucose vs 5mM glucose	1	0.5263157894736843	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM glucose vs 5mM glucose	1	0.42105263157894735	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM glucose vs 5mM glucose	1	0.44999999999999996	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM glucose vs 2mM glucose	0.4	0.2777777777777778	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM glucose vs 2mM glucose	0.08333333333333333	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM glucose vs 2mM glucose	0.1111111111111111	0.5	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM glucose vs 2mM glucose	-0.3333333333333333	0.1875	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM glucose vs 2mM glucose	0	0.368421052631579	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM glucose vs 2mM glucose	-1	0.05882352941176472	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1% hexanoic acid vs 50mM sucrose	0	0.5263157894736843	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1% hexanoic acid vs 50mM sucrose	0	0.9523809523809523	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 1% hexanoic acid vs 50mM sucrose	-0.08333333333333333	0.631578947368421	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 1% hexanoic acid vs 50mM sucrose	0.5	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 1% hexanoic acid vs 50mM sucrose	0.15384615384615383	0.65	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 1% hexanoic acid vs 50mM sucrose	0.3076923076923077	0.65	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.35294117647058826	0.8947368421052632	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	-0.125	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.35	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.3684210526315789	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.35294117647058826	0.85	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.5714285714285714	0.7	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.4375	0.8	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.38461538461538464	0.65	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0	0.6842105263157895	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.25	0.8421052631578947	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	-0.0588235294117647	0.85	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.2% hexanoic acid vs 50mM sucrose	0.1111111111111111	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.15789473684210523	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0	1	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.15384615384615383	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.1875	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.05263157894736842	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.05555555555555555	0.9	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0	1	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.3333333333333333	0.75	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.2777777777777778	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.42105263157894735	0.95	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	1	0.35	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.6	0.75	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.21428571428571427	0.7	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.15384615384615383	0.7222222222222222	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 50mM sucrose	0.05	1	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 50mM sucrose	0.05555555555555555	0.9	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 50mM sucrose	0.15789473684210523	0.95	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 50mM sucrose	0	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 50mM sucrose	0.25	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 50mM sucrose	0	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 50mM sucrose	0.0588235294117647	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 50mM sucrose	-0.1111111111111111	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 50mM sucrose	0.4705882352941176	0.85	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 50mM sucrose	0.05263157894736842	0.95	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 50mM sucrose	0.18181818181818185	0.55	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 50mM sucrose	-0.07142857142857142	0.736842105263158	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 50mM sucrose	0.15	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 50mM sucrose	0	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 50mM sucrose	-0.05263157894736842	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.7142857142857143	0.7	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.8571428571428571	0.7	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.8333333333333334	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.5555555555555556	0.44999999999999996	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.6363636363636364	0.5789473684210527	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-1	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.25	0.631578947368421	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0.38461538461538464	0.6842105263157895	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0	0.8421052631578947	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.5	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.4545454545454546	0.55	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.15384615384615383	0.65	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.8	0.25	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	0	0.050000000000000044	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.2727272727272727	0.5789473684210527	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.2307692307692308	0.65	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.38461538461538464	0.65	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.7142857142857143	0.35	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.5% hexanoic acid vs 50mM sucrose	-0.16666666666666666	0.6	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	-0.4615384615384616	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.5789473684210527	0.95	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.5	1	petri dish colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.47619047619047616	1	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	-0.07692307692307693	0.65	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	-0.26666666666666666	0.7894736842105263	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.14285714285714285	0.7777777777777778	petri dish colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.6842105263157895	0.95	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.5	0.9473684210526316	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.45	1	petri dish colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.7	1	petri dish colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.8	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.6	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.7368421052631579	0.95	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.5	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.65	1	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.45	1	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.3157894736842105	0.95	petri dish colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.05	1	petri dish colorimetric
+D. sechellia	07	male	noni juice vs grape juice	-0.1111111111111111	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.7058823529411765	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.9411764705882352	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.6842105263157895	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.7	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs grape juice	-0.55	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.631578947368421	0.9047619047619048	petri dish colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.8421052631578947	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.85	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	noni juice vs grape juice	-0.6190476190476191	1	petri dish colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.35	1	petri dish colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.10526315789473684	0.95	petri dish colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.05555555555555555	0.9	petri dish colorimetric
+D. sechellia	07	female	noni juice vs grape juice	0.35	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.47368421052631576	0.95	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.45	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.3333333333333333	0.9473684210526316	petri dish colorimetric
+D. simulans	04	female	noni juice vs grape juice	-0.6111111111111112	0.9473684210526316	petri dish colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.5789473684210527	0.95	petri dish colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.9	1	petri dish colorimetric
+D. simulans	04	male	noni juice vs grape juice	-1	1	petri dish colorimetric
+D. simulans	04	male	noni juice vs grape juice	-0.7894736842105263	0.95	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.6	1	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.4117647058823529	0.8947368421052632	petri dish colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.05263157894736842	0.95	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.05	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.35	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.75	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	0.21052631578947367	0.95	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	0.05	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	0.35	1	petri dish colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.2	1	petri dish colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.2631578947368421	1	petri dish colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.15789473684210523	0.95	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.5294117647058824	0.85	petri dish colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.631578947368421	0.95	petri dish colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.3888888888888889	0.9	petri dish colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.625	0.8	petri dish colorimetric
+D. sechellia	28	male	noni juice vs grape juice	-0.17647058823529413	0.85	petri dish colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0	0.7	petri dish colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0	0.85	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.55	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.95	1	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.75	1	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.5555555555555556	0.9	petri dish colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.65	1	petri dish colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.55	1	petri dish colorimetric
+D. melanogaster	Oregon-R	male	noni juice vs grape juice	-0.4444444444444444	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.45	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.05263157894736842	0.95	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs grape juice	-0.15	1	petri dish colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0.21428571428571427	0.7	petri dish colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.5263157894736842	0.95	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.7	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-1	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.6	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.55	1	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.6	1	petri dish colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0.0588235294117647	0.85	petri dish colorimetric
+D. sechellia	28	male	noni juice vs grape juice	-0.3888888888888889	0.9	petri dish colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.3157894736842105	0.95	petri dish colorimetric
+D. sechellia	28	female	noni juice vs grape juice	0.6666666666666666	0.75	petri dish colorimetric
+D. sechellia	28	male	noni juice vs grape juice	0.2631578947368421	0.95	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.45	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs grape juice	-0.55	1	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.5	1	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.5555555555555556	0.9	petri dish colorimetric
+D. simulans	196	male	noni juice vs grape juice	-0.6	1	petri dish colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.3333333333333333	0.9	petri dish colorimetric
+D. sechellia	07	male	noni juice vs grape juice	0.29411764705882354	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.5789473684210527	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.29411764705882354	0.8947368421052632	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	0	0.9	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	0.15789473684210523	0.95	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.95	1	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.9	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.8235294117647058	0.8947368421052632	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.6	0.7894736842105263	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.3	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.25	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.7	1	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.6842105263157895	0.95	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.6	1	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.75	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	0.06666666666666667	0.8333333333333334	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	0.125	0.8888888888888888	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.2	0.7894736842105263	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.42857142857142855	0.7777777777777778	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.2	0.5555555555555556	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.6875	0.8888888888888888	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.9	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.5263157894736842	1	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.7142857142857143	0.7777777777777778	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.4444444444444444	0.4736842105263158	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.75	0.6666666666666667	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.5789473684210527	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.8421052631578947	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.4375	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.5555555555555556	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Canton-S	female	noni juice vs 200mM sucrose	-0.6666666666666666	1	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.1111111111111111	0.9473684210526316	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	0	0.8	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	0.13333333333333333	0.8333333333333334	petri dish colorimetric
+D. simulans	04	female	noni juice vs 200mM sucrose	-0.17647058823529413	0.85	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.8125	0.8	petri dish colorimetric
+D. sechellia	07	female	noni juice vs 200mM sucrose	0.8947368421052632	0.95	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.3684210526315789	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.631578947368421	0.95	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.4	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.4444444444444444	0.9473684210526316	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.6666666666666666	0.9	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.14285714285714285	0.736842105263158	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.625	0.8888888888888888	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.5	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.6666666666666666	0.75	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.7	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.631578947368421	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.3684210526315789	1	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.5555555555555556	0.9	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.5	0.6	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0	0.9545454545454546	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0	0.8421052631578947	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.5238095238095238	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.45	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.6	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.6111111111111112	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.6470588235294118	0.85	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.8125	0.8	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.8125	0.8888888888888888	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.75	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.8	1	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.6428571428571429	0.7	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.6428571428571429	0.736842105263158	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.8571428571428571	0.7	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.1	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.4	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.2631578947368421	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.35	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.7	1	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.8235294117647058	0.85	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.6666666666666666	0.9	petri dish colorimetric
+D. simulans	196	female	noni juice vs 200mM sucrose	-0.65	1	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.7692307692307693	0.6842105263157895	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.7142857142857143	0.736842105263158	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.8	0.5555555555555556	petri dish colorimetric
+D. sechellia	28	female	noni juice vs 200mM sucrose	0.7333333333333333	0.7894736842105263	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.5789473684210527	0.95	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.42105263157894735	0.95	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.25	1	petri dish colorimetric
+D. melanogaster	Oregon-R	female	noni juice vs 200mM sucrose	-0.2	1	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 50mM sucrose	0.05	1	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 50mM sucrose	0.05555555555555555	0.9	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 50mM sucrose	0.15789473684210523	0.95	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 50mM sucrose	0	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 50mM sucrose	0.25	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 50mM sucrose	0	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 50mM sucrose	0.0588235294117647	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 50mM sucrose	-0.1111111111111111	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 50mM sucrose	0.4705882352941176	0.85	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 50mM sucrose	0.05263157894736842	0.95	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 50mM sucrose	0.18181818181818185	0.55	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 50mM sucrose	-0.07142857142857142	0.736842105263158	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 50mM sucrose	0.15	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 50mM sucrose	0	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 50mM sucrose	-0.05263157894736842	0.95	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.05555555555555555	0.9	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	0.2777777777777778	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	0.2222222222222222	0.9473684210526316	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	0.375	0.8421052631578947	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	0.5	0.9	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.6111111111111112	0.9	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.6875	0.8	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.5333333333333333	0.75	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.15789473684210523	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.4444444444444444	0.9	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.4444444444444444	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.4444444444444444	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.4666666666666667	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.35294117647058826	0.8947368421052632	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.0588235294117647	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	-0.35	0.9523809523809523	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.1% octanoic acid vs 50mM sucrose	0.06666666666666667	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.25	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.15	1	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	0	0.7	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	0.38461538461538464	0.65	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	0.4	0.5263157894736843	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.05	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.1111111111111111	0.9	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.2222222222222222	0.9	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	0.10526315789473684	0.95	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.05555555555555555	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.6	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.5789473684210527	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.65	1	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.10526315789473684	0.9047619047619048	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	0.2	0.5263157894736843	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.01% octanoic acid vs 50mM sucrose	-0.2222222222222222	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	0.16666666666666666	0.9	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	0	0.85	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	0.07142857142857142	0.7	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.42105263157894735	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	0.05	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.4	0.7894736842105263	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.17647058823529413	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.17647058823529413	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.05263157894736842	0.95	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.21428571428571427	0.736842105263158	petri dish colorimetric
+D. simulans	04	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.42857142857142855	0.736842105263158	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.4117647058823529	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.6923076923076923	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.4705882352941176	0.8947368421052632	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	-0.0625	0.8421052631578947	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	0.125	0.8	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose, 0.2% octanoic acid vs 50mM sucrose	0.2222222222222222	0.9473684210526316	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 5mM sucrose	0.875	0.8	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 5mM sucrose	0.6923076923076923	0.6842105263157895	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 5mM sucrose	0.9473684210526316	0.95	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	1	0.8	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 5mM sucrose	1	0.736842105263158	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 5mM sucrose	0.8	0.5	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 5mM sucrose	1	0.65	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.7	0.5	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	1	0.75	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	1	0.42105263157894735	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 5mM sucrose	0.9375	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 5mM sucrose	0.9090909090909092	0.55	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 5mM sucrose	0.9166666666666666	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9375	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	1	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	1	0.6	petri dish colorimetric
+D. simulans	04	female	5mM sucrose vs 2mM sucrose	-0.2857142857142857	0.7	petri dish colorimetric
+D. sechellia	07	male	5mM sucrose vs 2mM sucrose	-0.8888888888888888	0.6428571428571428	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM sucrose vs 2mM sucrose	-0.4545454545454546	0.5789473684210527	petri dish colorimetric
+D. sechellia	07	male	5mM sucrose vs 2mM sucrose	-0.75	0.47058823529411764	petri dish colorimetric
+D. simulans	04	female	5mM sucrose vs 2mM sucrose	-0.6153846153846154	0.65	petri dish colorimetric
+D. sechellia	07	female	5mM sucrose vs 2mM sucrose	-0.5	0.09999999999999998	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM sucrose vs 2mM sucrose	-0.38461538461538464	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM sucrose vs 2mM sucrose	-0.75	0.4	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM sucrose vs 2mM sucrose	-0.5833333333333334	0.6	petri dish colorimetric
+D. sechellia	07	female	5mM sucrose vs 2mM sucrose	-1	0.050000000000000044	petri dish colorimetric
+D. sechellia	07	female	5mM sucrose vs 2mM sucrose	-0.6	0.25	petri dish colorimetric
+D. sechellia	07	female	5mM sucrose vs 2mM sucrose	-1	0.050000000000000044	petri dish colorimetric
+D. simulans	04	female	5mM sucrose vs 2mM sucrose	-0.3333333333333333	0.44999999999999996	petri dish colorimetric
+D. simulans	04	female	5mM sucrose vs 2mM sucrose	-0.5714285714285714	0.35	petri dish colorimetric
+D. simulans	04	female	5mM sucrose vs 2mM sucrose	-0.7777777777777778	0.44999999999999996	petri dish colorimetric
+D. simulans	04	male	5mM sucrose vs 2mM sucrose	-0.6842105263157895	0.95	petri dish colorimetric
+D. simulans	04	male	5mM sucrose vs 2mM sucrose	-0.5625	0.8	petri dish colorimetric
+D. simulans	04	male	5mM sucrose vs 2mM sucrose	-0.8888888888888888	0.9	petri dish colorimetric
+D. sechellia	07	male	5mM sucrose vs 2mM sucrose	-0.5	0.09999999999999998	petri dish colorimetric
+D. sechellia	07	male	5mM sucrose vs 2mM sucrose	1	0.050000000000000044	petri dish colorimetric
+D. sechellia	07	male	5mM sucrose vs 2mM sucrose	0	0.050000000000000044	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM sucrose vs 2mM sucrose	-0.75	0.19999999999999996	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM sucrose vs 2mM sucrose	-0.5	0.19999999999999996	petri dish colorimetric
+D. sechellia	07	female	500mM sucrose vs 5mM sucrose	1	0.6	petri dish colorimetric
+D. sechellia	07	female	500mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. sechellia	07	female	500mM sucrose vs 5mM sucrose	1	0.6	petri dish colorimetric
+D. sechellia	07	male	500mM sucrose vs 5mM sucrose	1	0.7	petri dish colorimetric
+D. sechellia	07	male	500mM sucrose vs 5mM sucrose	1	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	male	500mM sucrose vs 5mM sucrose	1	0.4	petri dish colorimetric
+D. simulans	04	male	500mM sucrose vs 5mM sucrose	0.7058823529411765	0.85	petri dish colorimetric
+D. simulans	04	male	500mM sucrose vs 5mM sucrose	1	0.85	petri dish colorimetric
+D. simulans	04	male	500mM sucrose vs 5mM sucrose	0.9473684210526316	1	petri dish colorimetric
+D. simulans	04	female	500mM sucrose vs 5mM sucrose	1	0.95	petri dish colorimetric
+D. simulans	04	female	500mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. simulans	04	female	500mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM sucrose vs 5mM sucrose	1	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM sucrose vs 5mM sucrose	1	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM sucrose vs 5mM sucrose	0.8125	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM sucrose vs 5mM sucrose	0.9411764705882352	0.85	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM sucrose vs 5mM sucrose	0.8947368421052632	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM sucrose vs 5mM sucrose	0.9444444444444444	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM sucrose vs 5mM sucrose	0.9444444444444444	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM sucrose vs 5mM sucrose	0.875	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM sucrose vs 5mM sucrose	1	0.7894736842105263	petri dish colorimetric
+D. simulans	04	female	200mM sucrose vs 5mM sucrose	1	0.95	petri dish colorimetric
+D. simulans	04	female	200mM sucrose vs 5mM sucrose	0.8947368421052632	0.95	petri dish colorimetric
+D. simulans	04	female	200mM sucrose vs 5mM sucrose	0.9047619047619048	1	petri dish colorimetric
+D. simulans	04	male	200mM sucrose vs 5mM sucrose	1	0.95	petri dish colorimetric
+D. simulans	04	male	200mM sucrose vs 5mM sucrose	1	0.8947368421052632	petri dish colorimetric
+D. simulans	04	male	200mM sucrose vs 5mM sucrose	1	0.8421052631578947	petri dish colorimetric
+D. sechellia	07	female	200mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. sechellia	07	female	200mM sucrose vs 5mM sucrose	0.7368421052631579	0.95	petri dish colorimetric
+D. sechellia	07	female	200mM sucrose vs 5mM sucrose	0.9333333333333332	0.7894736842105263	petri dish colorimetric
+D. sechellia	07	male	200mM sucrose vs 5mM sucrose	0.9444444444444444	0.9	petri dish colorimetric
+D. sechellia	07	male	200mM sucrose vs 5mM sucrose	0.7272727272727273	0.55	petri dish colorimetric
+D. sechellia	07	male	200mM sucrose vs 5mM sucrose	0.5333333333333333	0.75	petri dish colorimetric
+D. sechellia	07	male	200mM sucrose vs 5mM sucrose	0.9375	0.8	petri dish colorimetric
+D. sechellia	07	male	200mM sucrose vs 5mM sucrose	0.8888888888888888	0.9	petri dish colorimetric
+D. sechellia	07	male	200mM sucrose vs 5mM sucrose	1	0.95	petri dish colorimetric
+D. sechellia	07	male	200mM sucrose vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. sechellia	07	female	200mM sucrose vs 5mM sucrose	0.9	1	petri dish colorimetric
+D. sechellia	07	female	200mM sucrose vs 5mM sucrose	1	0.95	petri dish colorimetric
+D. sechellia	07	female	200mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. simulans	04	male	200mM sucrose vs 5mM sucrose	0.8333333333333334	0.9473684210526316	petri dish colorimetric
+D. simulans	04	male	200mM sucrose vs 5mM sucrose	1	0.9473684210526316	petri dish colorimetric
+D. simulans	04	female	200mM sucrose vs 5mM sucrose	1	0.75	petri dish colorimetric
+D. simulans	04	female	200mM sucrose vs 5mM sucrose	0.8571428571428571	0.7	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	200mM sucrose vs 5mM sucrose	1	0.9411764705882353	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM sucrose vs 5mM sucrose	1	0.9	petri dish colorimetric
+D. melanogaster	Canton-S	female	200mM sucrose vs 5mM sucrose	1	0.736842105263158	petri dish colorimetric
+D. sechellia	07	male	500mM sucrose vs 5mM sucrose	1	0.42105263157894735	petri dish colorimetric
+D. sechellia	07	male	500mM sucrose vs 5mM sucrose	1	0.44999999999999996	petri dish colorimetric
+D. sechellia	07	male	500mM sucrose vs 5mM sucrose	1	0.5789473684210527	petri dish colorimetric
+D. sechellia	07	female	500mM sucrose vs 5mM sucrose	0.9375	0.8421052631578947	petri dish colorimetric
+D. sechellia	07	female	500mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. sechellia	07	female	500mM sucrose vs 5mM sucrose	1	0.9473684210526316	petri dish colorimetric
+D. simulans	04	male	500mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	female	500mM sucrose vs 5mM sucrose	1	0.9047619047619048	petri dish colorimetric
+D. simulans	04	female	500mM sucrose vs 5mM sucrose	0.9473684210526316	0.95	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM sucrose vs 5mM sucrose	1	0.8333333333333334	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. sechellia	07	male	5mM sucrose vs 2mM sucrose	-0.5	0.09523809523809523	petri dish colorimetric
+D. sechellia	07	male	5mM sucrose vs 2mM sucrose	-1	0.11111111111111116	petri dish colorimetric
+D. sechellia	07	female	5mM sucrose vs 2mM sucrose	0.09090909090909093	0.55	petri dish colorimetric
+D. sechellia	07	female	5mM sucrose vs 2mM sucrose	0	0.5	petri dish colorimetric
+D. sechellia	07	female	5mM sucrose vs 2mM sucrose	0	0.19999999999999996	petri dish colorimetric
+D. simulans	04	male	5mM sucrose vs 2mM sucrose	0	0.38888888888888884	petri dish colorimetric
+D. simulans	04	male	5mM sucrose vs 2mM sucrose	-0.6	0.3125	petri dish colorimetric
+D. simulans	04	female	5mM sucrose vs 2mM sucrose	0.3333333333333333	0.30000000000000004	petri dish colorimetric
+D. simulans	04	female	5mM sucrose vs 2mM sucrose	0.5	0.19999999999999996	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM sucrose vs 2mM sucrose	-0.3333333333333333	0.6	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM sucrose vs 2mM sucrose	-0.14285714285714285	0.368421052631579	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.5833333333333334	0.6	petri dish colorimetric
+D. sechellia	07	female	50mM sucrose vs 5mM sucrose	0.9285714285714286	0.7	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 5mM sucrose	0.6666666666666666	0.30000000000000004	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 5mM sucrose	0.7142857142857143	0.35	petri dish colorimetric
+D. sechellia	07	male	50mM sucrose vs 5mM sucrose	1	0.5	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.85	1	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.8461538461538461	0.65	petri dish colorimetric
+D. simulans	04	female	50mM sucrose vs 5mM sucrose	0.8461538461538461	0.65	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	male	50mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.875	0.8888888888888888	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9375	0.8421052631578947	petri dish colorimetric
+D. melanogaster	Canton-S	female	50mM sucrose vs 5mM sucrose	0.9166666666666666	0.8571428571428572	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 5mM sucrose	0.8	0.75	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 5mM sucrose	0.8461538461538461	0.7222222222222222	petri dish colorimetric
+D. melanogaster	Canton-S	male	50mM sucrose vs 5mM sucrose	0.6875	0.8	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	female	500mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. melanogaster	Canton-S	male	500mM sucrose vs 5mM sucrose	1	0.85	petri dish colorimetric
+D. simulans	04	female	500mM sucrose vs 5mM sucrose	1	1	petri dish colorimetric
+D. simulans	04	male	500mM sucrose vs 5mM sucrose	1	0.9473684210526316	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM sucrose vs 2mM sucrose	-1	0.65	petri dish colorimetric
+D. melanogaster	Canton-S	female	5mM sucrose vs 2mM sucrose	-0.5714285714285714	0.35	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM sucrose vs 2mM sucrose	-0.8	0.5	petri dish colorimetric
+D. melanogaster	Canton-S	male	5mM sucrose vs 2mM sucrose	-0.9285714285714286	0.736842105263158	petri dish colorimetric
+D. simulans	04	male	5mM sucrose vs 2mM sucrose	-1	0.4444444444444444	petri dish colorimetric

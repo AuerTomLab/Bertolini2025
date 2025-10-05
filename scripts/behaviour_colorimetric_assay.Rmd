@@ -1,0 +1,104 @@
+---
+title: "Analysis behaviour - colorimetric assay"
+author: "Enrico Bertolini"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### libraries
+
+```{r}
+library(tidyverse)
+library(ggh4x)
+library(ggpubr)
+
+for (i in list.files("../R/", full.names = TRUE, pattern = '.R')) {
+  source(i)
+}
+```
+
+# 72-well assay
+
+```{r}
+read_tsv(file = "../data/behaviour_colorimetric_assays.tsv", show_col_types = FALSE) %>%
+  filter(
+    assay_type == "72-well colorimetric",
+    two_choice == "noni juice vs grape juice"
+  ) %>%
+  select_all() -> df
+
+p1 <- df %>%
+  plot_PI(
+    x_var = species,
+    order_x = order_species(),
+    title = "72-well colorimetric assay" 
+  ) +
+  force_panelsizes(rows = unit(20, "mm"),
+                          cols = unit(15, "mm")) 
+
+# p1
+
+p2 <- df %>%
+  plot_perc_feeding(
+    x_var = species,
+    order_x = order_species(),
+    title = "72-well colorimetric assay" 
+  ) +
+  force_panelsizes(rows = unit(20, "mm"),
+                          cols = unit(15, "mm"))
+
+# p2
+
+p <- ggarrange(p1, p2, ncol = 2, nrow = 1, align = "h")
+
+p
+
+ggsave("../output/72_well_colorimetric_Dtrio.png", 
+       plot = p, 
+       width = 6, 
+       height = 5, 
+       units = "cm")
+
+```
+
+
+# petri dish assay
+
+```{r}
+read_tsv(file = "../data/behaviour_colorimetric_assays.tsv", show_col_types = FALSE) %>%
+  filter(
+    assay_type == "petri dish colorimetric",
+    two_choice == "noni juice vs grape juice",
+    strain %in% c(
+      "Canton-S",
+      "Oregon-R",
+      "04",
+      "196",
+      "07",
+      "28"
+      )
+  ) %>%
+  select_all() -> df
+
+df %>%
+  plot_PI(
+    x_var = strain,
+    order_x = order_strains(),
+    title = "petri dish colorimetric assay"
+  ) +
+  force_panelsizes(rows = unit(20, "mm"),
+                          cols = unit(20, "mm")) 
+```
+
+
+```{r}
+sessionInfo()
+```
+
+
+
+
+
