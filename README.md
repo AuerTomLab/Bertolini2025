@@ -20,11 +20,18 @@ This repository shares data and scripts behind the analyses presented in the fol
 
 ## Usage example
 
+### Colorimetric assay data
+
 ```r
 library()
 ```
 
 ![](./output/72_well_colorimetric_Dtrio.png)
+
+### flyPAD assay data
+
+![](./output/flyPAD_Dtrio.png)
+
 
 ---
 

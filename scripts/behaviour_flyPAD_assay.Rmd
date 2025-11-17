@@ -1,0 +1,112 @@
+---
+title: "Analysis behaviour - flyPAD assay"
+author: "Enrico Bertolini"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### libraries
+
+```{r}
+library(tidyverse)
+library(ggh4x)
+library(ggpubr)
+
+for (i in list.files("../R/", full.names = TRUE, pattern = '.R')) {
+  source(i)
+}
+```
+
+# Preference index
+
+```{r}
+read_tsv(file = "../data/behaviour_flyPAD_assays.tsv", show_col_types = FALSE) %>%
+  filter(
+    tastant_comparison == "noni juice vs grape juice",
+    species %in% c("D. melanogaster", "D. simulans", "D. sechellia"),
+    strain %in% c("Canton-S", "Oregon-R", "04", "196", "07", "28")
+  ) %>%
+  select_all() -> df
+
+
+p <- df %>% 
+  plot_flyPAD(
+    x_var = species,
+    food_A = "noni_juice",
+    food_B = "grape_juice",
+    order_x = order_species(),
+    title = "flyPAD assay"    
+    )
+
+
+p
+
+ggsave("../output/flyPAD_Dtrio.png", 
+       plot = p, 
+       width = 9, 
+       height = 5, 
+       units = "cm")
+
+```
+
+
+# PCA
+
+```{r}
+# file.pca = prcomp(x = df,
+#                   center = T,
+#                   scale. = T
+#                   )
+# 
+# ggbiplot::ggscreeplot(file.pca,
+#             type = "cev")
+# 
+# biplot(file.pca)
+# 
+# ggplot2::autoplot(object = file.pca,
+#                   frame = TRUE,
+#                   x = 2,
+#                   y = 1,
+#                   data = df,
+#                   colour = 'species',
+#                   size = 10
+# )
+# 
+# df_pca <- file.pca$x[,1:2]
+```
+
+
+```{r}
+read_tsv(file = "../data/behaviour_flyPAD_PCA.tsv", show_col_types = FALSE) %>%
+  mutate(
+    group = str_replace_all(species, " MPAR", ""),
+    label = paste0(species, " ", strain)) %>% 
+  select_all() -> df
+
+p <- df %>%
+  plot_PCA_flyPAD(
+    PC1 = PC1,
+    PC2 = PC2,
+    group_var = group,
+    label_var = label,
+    title = "flyPAD PCA"
+  ) +
+  force_panelsizes(rows = unit(30, "mm"),
+                   cols = unit(30, "mm")) 
+
+p
+
+```
+
+
+```{r}
+sessionInfo()
+```
+
+
+
+
+
