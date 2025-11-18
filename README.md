@@ -36,7 +36,7 @@ read_tsv(file = "../data/behaviour_colorimetric_assays.tsv", show_col_types = FA
     assay_type == "72-well colorimetric",
     two_choice == "noni juice vs grape juice"
   ) %>%
-  selecte(everything()) -> df
+  select(everything()) -> df
   
 df %>%
   plot_PI(
