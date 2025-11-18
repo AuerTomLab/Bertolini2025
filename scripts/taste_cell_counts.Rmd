@@ -1,0 +1,69 @@
+---
+title: "Analysis taste cell counts"
+author: "Enrico Bertolini"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### libraries
+
+```{r}
+library(tidyverse)
+library(ggh4x)
+library(ggpubr)
+
+for (i in list.files("../R", full.names = TRUE, pattern = '.R')) {
+  source(i)
+}
+```
+
+# Plot cell counts
+
+```{r}
+p <- read_tsv(file = "../data/taste_cell_counts.tsv", show_col_types = FALSE) %>%
+  filter(driver == "Gr64f-GAL4",
+         sex == "female",
+         tissue == "labellum") %>%
+  plot_cell_counts(
+    x_var = species,
+    ymax = 40,
+    order_x = order_species(),
+    title = "Gr64f\nlabellum\nfemales"
+  ) +
+  force_panelsizes(rows = unit(20, "mm"),
+                          cols = unit(15, "mm"))
+
+p
+
+ggsave("../output/taste_cell_counts_Dtrio.png", 
+       plot = p, 
+       width = 9, 
+       height = 5, 
+       units = "cm")
+
+```
+
+
+```{r}
+read_tsv(file = "../data/taste_cell_counts.tsv", show_col_types = FALSE) %>%
+  filter(driver == "Gr64f-GAL4",
+         sex == "female",
+         species == "D. sechellia") %>%
+  # select(everything()) -> df
+  plot_cell_counts(
+    x_var = tissue,
+    ymax = 40,
+    order_x = c("labellum", "foreleg", "midleg", "hindleg", "pharynx LSO"),
+    title = "D. sechellia Gr64f female"
+  ) +
+  force_panelsizes(rows = unit(20, "mm"),
+                          cols = unit(25, "mm"))
+
+```
+
+```{r}
+sessionInfo()
+```

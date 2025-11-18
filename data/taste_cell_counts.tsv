@@ -1,0 +1,481 @@
+species	driver	sex	tissue	number_cells
+D. melanogaster	Gr64f-GAL4	female	labellum	33
+D. melanogaster	Gr64f-GAL4	female	labellum	31
+D. melanogaster	Gr64f-GAL4	female	labellum	33
+D. melanogaster	Gr64f-GAL4	female	labellum	35
+D. melanogaster	Gr64f-GAL4	female	labellum	34
+D. melanogaster	Gr64f-GAL4	female	labellum	33
+D. melanogaster	Gr64f-GAL4	female	labellum	33
+D. melanogaster	Gr64f-GAL4	female	labellum	33
+D. melanogaster	Gr64f-GAL4	male	labellum	30
+D. melanogaster	Gr64f-GAL4	male	labellum	22
+D. melanogaster	Gr64f-GAL4	male	labellum	24
+D. melanogaster	Gr64f-GAL4	male	labellum	23
+D. melanogaster	Gr64f-GAL4	male	labellum	28
+D. melanogaster	Gr64f-GAL4	male	labellum	23
+D. melanogaster	Gr64f-GAL4	male	labellum	27
+D. melanogaster	Gr64f-GAL4	male	labellum	23
+D. melanogaster	Gr64f-GAL4	male	labellum	22
+D. melanogaster	Gr66a-GAL4	female	labellum	35
+D. melanogaster	Gr66a-GAL4	female	labellum	37
+D. melanogaster	Gr66a-GAL4	female	labellum	34
+D. melanogaster	Gr66a-GAL4	female	labellum	34
+D. melanogaster	Gr66a-GAL4	female	labellum	34
+D. melanogaster	Gr66a-GAL4	female	labellum	33
+D. melanogaster	Gr66a-GAL4	female	labellum	34
+D. melanogaster	Gr66a-GAL4	female	labellum	36
+D. melanogaster	Gr66a-GAL4	male	labellum	32
+D. melanogaster	Gr66a-GAL4	male	labellum	34
+D. melanogaster	Gr66a-GAL4	male	labellum	35
+D. melanogaster	Gr66a-GAL4	male	labellum	34
+D. melanogaster	Gr66a-GAL4	male	labellum	33
+D. melanogaster	Gr66a-GAL4	male	labellum	31
+D. melanogaster	Gr66a-GAL4	male	labellum	33
+D. melanogaster	Gr66a-GAL4	male	labellum	35
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	30
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	34
+D. simulans	Gr64f-GAL4	female	labellum	31
+D. simulans	Gr64f-GAL4	male	labellum	39
+D. simulans	Gr64f-GAL4	male	labellum	37
+D. simulans	Gr64f-GAL4	male	labellum	36
+D. simulans	Gr64f-GAL4	male	labellum	37
+D. simulans	Gr64f-GAL4	male	labellum	38
+D. simulans	Gr64f-GAL4	male	labellum	40
+D. simulans	Gr64f-GAL4	male	labellum	36
+D. simulans	Gr64f-GAL4	male	labellum	36
+D. simulans	Gr64f-GAL4	male	labellum	32
+D. simulans	Gr64f-GAL4	male	labellum	37
+D. simulans	Gr66a-GAL4	female	labellum	30
+D. simulans	Gr66a-GAL4	female	labellum	34
+D. simulans	Gr66a-GAL4	female	labellum	32
+D. simulans	Gr66a-GAL4	female	labellum	32
+D. simulans	Gr66a-GAL4	female	labellum	32
+D. simulans	Gr66a-GAL4	female	labellum	31
+D. simulans	Gr66a-GAL4	female	labellum	31
+D. simulans	Gr66a-GAL4	female	labellum	32
+D. simulans	Gr66a-GAL4	female	labellum	28
+D. simulans	Gr66a-GAL4	female	labellum	26
+D. simulans	Gr66a-GAL4	female	labellum	27
+D. simulans	Gr66a-GAL4	female	labellum	30
+D. simulans	Gr66a-GAL4	female	labellum	30
+D. simulans	Gr66a-GAL4	female	labellum	29
+D. simulans	Gr66a-GAL4	male	labellum	32
+D. simulans	Gr66a-GAL4	male	labellum	32
+D. simulans	Gr66a-GAL4	male	labellum	35
+D. simulans	Gr66a-GAL4	male	labellum	32
+D. simulans	Gr66a-GAL4	male	labellum	33
+D. simulans	Gr66a-GAL4	male	labellum	34
+D. sechellia	Gr64f-GAL4	female	labellum	28
+D. sechellia	Gr64f-GAL4	female	labellum	31
+D. sechellia	Gr64f-GAL4	female	labellum	32
+D. sechellia	Gr64f-GAL4	female	labellum	28
+D. sechellia	Gr64f-GAL4	female	labellum	27
+D. sechellia	Gr64f-GAL4	female	labellum	30
+D. sechellia	Gr64f-GAL4	female	labellum	29
+D. sechellia	Gr64f-GAL4	female	labellum	31
+D. sechellia	Gr64f-GAL4	male	labellum	29
+D. sechellia	Gr64f-GAL4	male	labellum	26
+D. sechellia	Gr64f-GAL4	male	labellum	30
+D. sechellia	Gr64f-GAL4	male	labellum	28
+D. sechellia	Gr64f-GAL4	male	labellum	32
+D. sechellia	Gr64f-GAL4	male	labellum	30
+D. sechellia	Gr64f-GAL4	male	labellum	29
+D. sechellia	Gr66a-GAL4	female	labellum	30
+D. sechellia	Gr66a-GAL4	female	labellum	27
+D. sechellia	Gr66a-GAL4	female	labellum	30
+D. sechellia	Gr66a-GAL4	female	labellum	31
+D. sechellia	Gr66a-GAL4	female	labellum	35
+D. sechellia	Gr66a-GAL4	female	labellum	32
+D. sechellia	Gr66a-GAL4	male	labellum	28
+D. sechellia	Gr66a-GAL4	male	labellum	31
+D. sechellia	Gr66a-GAL4	male	labellum	30
+D. sechellia	Gr66a-GAL4	male	labellum	28
+D. sechellia	Gr66a-GAL4	male	labellum	32
+D. sechellia	Gr66a-GAL4	male	labellum	30
+D. melanogaster	Gr64f-GAL4	female	foreleg	8
+D. melanogaster	Gr64f-GAL4	female	foreleg	8
+D. melanogaster	Gr64f-GAL4	female	foreleg	7
+D. melanogaster	Gr64f-GAL4	female	foreleg	8
+D. melanogaster	Gr64f-GAL4	female	foreleg	8
+D. melanogaster	Gr64f-GAL4	female	foreleg	9
+D. melanogaster	Gr64f-GAL4	female	foreleg	9
+D. melanogaster	Gr64f-GAL4	female	foreleg	9
+D. melanogaster	Gr64f-GAL4	male	foreleg	10
+D. melanogaster	Gr64f-GAL4	male	foreleg	8
+D. melanogaster	Gr64f-GAL4	male	foreleg	11
+D. melanogaster	Gr64f-GAL4	male	foreleg	8
+D. melanogaster	Gr64f-GAL4	male	foreleg	7
+D. melanogaster	Gr64f-GAL4	male	foreleg	11
+D. melanogaster	Gr64f-GAL4	male	foreleg	8
+D. melanogaster	Gr64f-GAL4	male	foreleg	9
+D. melanogaster	Gr64f-GAL4	male	foreleg	8
+D. melanogaster	Gr64f-GAL4	male	foreleg	7
+D. melanogaster	Gr66a-GAL4	female	foreleg	10
+D. melanogaster	Gr66a-GAL4	female	foreleg	9
+D. melanogaster	Gr66a-GAL4	female	foreleg	10
+D. melanogaster	Gr66a-GAL4	female	foreleg	10
+D. melanogaster	Gr66a-GAL4	female	foreleg	10
+D. melanogaster	Gr66a-GAL4	female	foreleg	8
+D. melanogaster	Gr66a-GAL4	female	foreleg	9
+D. melanogaster	Gr66a-GAL4	female	foreleg	7
+D. melanogaster	Gr66a-GAL4	female	foreleg	6
+D. melanogaster	Gr66a-GAL4	female	foreleg	7
+D. melanogaster	Gr66a-GAL4	female	foreleg	8
+D. melanogaster	Gr66a-GAL4	male	foreleg	8
+D. melanogaster	Gr66a-GAL4	male	foreleg	9
+D. melanogaster	Gr66a-GAL4	male	foreleg	8
+D. melanogaster	Gr66a-GAL4	male	foreleg	10
+D. melanogaster	Gr66a-GAL4	male	foreleg	9
+D. melanogaster	Gr66a-GAL4	male	foreleg	10
+D. simulans	Gr64f-GAL4	female	foreleg	10
+D. simulans	Gr64f-GAL4	female	foreleg	12
+D. simulans	Gr64f-GAL4	female	foreleg	12
+D. simulans	Gr64f-GAL4	female	foreleg	12
+D. simulans	Gr64f-GAL4	female	foreleg	11
+D. simulans	Gr64f-GAL4	female	foreleg	13
+D. simulans	Gr64f-GAL4	female	foreleg	13
+D. simulans	Gr64f-GAL4	female	foreleg	13
+D. simulans	Gr64f-GAL4	female	foreleg	11
+D. simulans	Gr64f-GAL4	female	foreleg	13
+D. simulans	Gr64f-GAL4	male	foreleg	12
+D. simulans	Gr64f-GAL4	male	foreleg	10
+D. simulans	Gr64f-GAL4	male	foreleg	9
+D. simulans	Gr64f-GAL4	male	foreleg	9
+D. simulans	Gr64f-GAL4	male	foreleg	11
+D. simulans	Gr64f-GAL4	male	foreleg	10
+D. simulans	Gr64f-GAL4	male	foreleg	10
+D. simulans	Gr64f-GAL4	male	foreleg	10
+D. simulans	Gr64f-GAL4	male	foreleg	10
+D. simulans	Gr64f-GAL4	male	foreleg	10
+D. simulans	Gr66a-GAL4	female	foreleg	8
+D. simulans	Gr66a-GAL4	female	foreleg	7
+D. simulans	Gr66a-GAL4	female	foreleg	7
+D. simulans	Gr66a-GAL4	female	foreleg	8
+D. simulans	Gr66a-GAL4	female	foreleg	8
+D. simulans	Gr66a-GAL4	female	foreleg	8
+D. simulans	Gr66a-GAL4	female	foreleg	6
+D. simulans	Gr66a-GAL4	female	foreleg	5
+D. simulans	Gr66a-GAL4	male	foreleg	10
+D. simulans	Gr66a-GAL4	male	foreleg	11
+D. simulans	Gr66a-GAL4	male	foreleg	7
+D. simulans	Gr66a-GAL4	male	foreleg	7
+D. simulans	Gr66a-GAL4	male	foreleg	8
+D. simulans	Gr66a-GAL4	male	foreleg	6
+D. simulans	Gr66a-GAL4	male	foreleg	7
+D. simulans	Gr66a-GAL4	male	foreleg	7
+D. sechellia	Gr64f-GAL4	female	foreleg	11
+D. sechellia	Gr64f-GAL4	female	foreleg	12
+D. sechellia	Gr64f-GAL4	female	foreleg	11
+D. sechellia	Gr64f-GAL4	female	foreleg	12
+D. sechellia	Gr64f-GAL4	female	foreleg	12
+D. sechellia	Gr64f-GAL4	female	foreleg	12
+D. sechellia	Gr64f-GAL4	female	foreleg	13
+D. sechellia	Gr64f-GAL4	female	foreleg	12
+D. sechellia	Gr64f-GAL4	female	foreleg	11
+D. sechellia	Gr64f-GAL4	female	foreleg	12
+D. sechellia	Gr64f-GAL4	male	foreleg	9
+D. sechellia	Gr64f-GAL4	male	foreleg	10
+D. sechellia	Gr64f-GAL4	male	foreleg	9
+D. sechellia	Gr64f-GAL4	male	foreleg	12
+D. sechellia	Gr64f-GAL4	male	foreleg	11
+D. sechellia	Gr64f-GAL4	male	foreleg	9
+D. sechellia	Gr64f-GAL4	male	foreleg	10
+D. sechellia	Gr64f-GAL4	male	foreleg	10
+D. sechellia	Gr64f-GAL4	male	foreleg	10
+D. sechellia	Gr64f-GAL4	male	foreleg	10
+D. sechellia	Gr66a-GAL4	female	foreleg	7
+D. sechellia	Gr66a-GAL4	female	foreleg	8
+D. sechellia	Gr66a-GAL4	female	foreleg	8
+D. sechellia	Gr66a-GAL4	female	foreleg	10
+D. sechellia	Gr66a-GAL4	female	foreleg	9
+D. sechellia	Gr66a-GAL4	female	foreleg	8
+D. sechellia	Gr66a-GAL4	female	foreleg	7
+D. sechellia	Gr66a-GAL4	female	foreleg	9
+D. sechellia	Gr66a-GAL4	male	foreleg	9
+D. sechellia	Gr66a-GAL4	male	foreleg	9
+D. sechellia	Gr66a-GAL4	male	foreleg	7
+D. sechellia	Gr66a-GAL4	male	foreleg	8
+D. sechellia	Gr66a-GAL4	male	foreleg	7
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	female	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	5
+D. melanogaster	Gr64f-GAL4	male	midleg	4
+D. melanogaster	Gr64f-GAL4	male	midleg	5
+D. melanogaster	Gr64f-GAL4	male	midleg	3
+D. melanogaster	Gr64f-GAL4	male	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	4
+D. melanogaster	Gr64f-GAL4	male	midleg	5
+D. melanogaster	Gr64f-GAL4	male	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	6
+D. melanogaster	Gr64f-GAL4	male	midleg	8
+D. melanogaster	Gr66a-GAL4	female	midleg	4
+D. melanogaster	Gr66a-GAL4	female	midleg	4
+D. melanogaster	Gr66a-GAL4	female	midleg	4
+D. melanogaster	Gr66a-GAL4	female	midleg	4
+D. melanogaster	Gr66a-GAL4	female	midleg	4
+D. melanogaster	Gr66a-GAL4	female	midleg	5
+D. melanogaster	Gr66a-GAL4	male	midleg	4
+D. melanogaster	Gr66a-GAL4	male	midleg	5
+D. melanogaster	Gr66a-GAL4	male	midleg	5
+D. melanogaster	Gr66a-GAL4	male	midleg	4
+D. melanogaster	Gr66a-GAL4	male	midleg	4
+D. melanogaster	Gr66a-GAL4	male	midleg	4
+D. simulans	Gr64f-GAL4	female	midleg	8
+D. simulans	Gr64f-GAL4	female	midleg	6
+D. simulans	Gr64f-GAL4	female	midleg	6
+D. simulans	Gr64f-GAL4	female	midleg	6
+D. simulans	Gr64f-GAL4	female	midleg	7
+D. simulans	Gr64f-GAL4	female	midleg	7
+D. simulans	Gr64f-GAL4	female	midleg	6
+D. simulans	Gr64f-GAL4	female	midleg	6
+D. simulans	Gr64f-GAL4	female	midleg	7
+D. simulans	Gr64f-GAL4	female	midleg	6
+D. simulans	Gr64f-GAL4	male	midleg	8
+D. simulans	Gr64f-GAL4	male	midleg	7
+D. simulans	Gr64f-GAL4	male	midleg	6
+D. simulans	Gr64f-GAL4	male	midleg	7
+D. simulans	Gr64f-GAL4	male	midleg	6
+D. simulans	Gr64f-GAL4	male	midleg	7
+D. simulans	Gr66a-GAL4	female	midleg	5
+D. simulans	Gr66a-GAL4	female	midleg	5
+D. simulans	Gr66a-GAL4	female	midleg	3
+D. simulans	Gr66a-GAL4	female	midleg	3
+D. simulans	Gr66a-GAL4	female	midleg	5
+D. simulans	Gr66a-GAL4	female	midleg	4
+D. simulans	Gr66a-GAL4	female	midleg	5
+D. simulans	Gr66a-GAL4	male	midleg	5
+D. simulans	Gr66a-GAL4	male	midleg	4
+D. simulans	Gr66a-GAL4	male	midleg	5
+D. simulans	Gr66a-GAL4	male	midleg	4
+D. simulans	Gr66a-GAL4	male	midleg	5
+D. simulans	Gr66a-GAL4	male	midleg	5
+D. simulans	Gr66a-GAL4	male	midleg	4
+D. sechellia	Gr64f-GAL4	female	midleg	6
+D. sechellia	Gr64f-GAL4	female	midleg	6
+D. sechellia	Gr64f-GAL4	female	midleg	5
+D. sechellia	Gr64f-GAL4	female	midleg	6
+D. sechellia	Gr64f-GAL4	female	midleg	5
+D. sechellia	Gr64f-GAL4	female	midleg	6
+D. sechellia	Gr64f-GAL4	female	midleg	6
+D. sechellia	Gr64f-GAL4	female	midleg	6
+D. sechellia	Gr64f-GAL4	female	midleg	7
+D. sechellia	Gr64f-GAL4	male	midleg	6
+D. sechellia	Gr64f-GAL4	male	midleg	6
+D. sechellia	Gr64f-GAL4	male	midleg	6
+D. sechellia	Gr64f-GAL4	male	midleg	5
+D. sechellia	Gr64f-GAL4	male	midleg	6
+D. sechellia	Gr64f-GAL4	male	midleg	6
+D. sechellia	Gr66a-GAL4	female	midleg	4
+D. sechellia	Gr66a-GAL4	female	midleg	4
+D. sechellia	Gr66a-GAL4	female	midleg	3
+D. sechellia	Gr66a-GAL4	female	midleg	3
+D. sechellia	Gr66a-GAL4	male	midleg	4
+D. sechellia	Gr66a-GAL4	male	midleg	4
+D. sechellia	Gr66a-GAL4	male	midleg	4
+D. sechellia	Gr66a-GAL4	male	midleg	3
+D. sechellia	Gr66a-GAL4	male	midleg	4
+D. melanogaster	Gr64f-GAL4	female	hindleg	6
+D. melanogaster	Gr64f-GAL4	female	hindleg	6
+D. melanogaster	Gr64f-GAL4	female	hindleg	6
+D. melanogaster	Gr64f-GAL4	female	hindleg	6
+D. melanogaster	Gr64f-GAL4	female	hindleg	5
+D. melanogaster	Gr64f-GAL4	female	hindleg	6
+D. melanogaster	Gr64f-GAL4	female	hindleg	6
+D. melanogaster	Gr64f-GAL4	male	hindleg	4
+D. melanogaster	Gr64f-GAL4	male	hindleg	5
+D. melanogaster	Gr64f-GAL4	male	hindleg	5
+D. melanogaster	Gr64f-GAL4	male	hindleg	5
+D. melanogaster	Gr64f-GAL4	male	hindleg	5
+D. melanogaster	Gr64f-GAL4	male	hindleg	4
+D. melanogaster	Gr64f-GAL4	male	hindleg	3
+D. melanogaster	Gr66a-GAL4	female	hindleg	6
+D. melanogaster	Gr66a-GAL4	female	hindleg	6
+D. melanogaster	Gr66a-GAL4	female	hindleg	5
+D. melanogaster	Gr66a-GAL4	female	hindleg	6
+D. melanogaster	Gr66a-GAL4	female	hindleg	6
+D. melanogaster	Gr66a-GAL4	male	hindleg	6
+D. melanogaster	Gr66a-GAL4	male	hindleg	6
+D. melanogaster	Gr66a-GAL4	male	hindleg	6
+D. melanogaster	Gr66a-GAL4	male	hindleg	6
+D. melanogaster	Gr66a-GAL4	male	hindleg	5
+D. simulans	Gr64f-GAL4	female	hindleg	5
+D. simulans	Gr64f-GAL4	female	hindleg	6
+D. simulans	Gr64f-GAL4	female	hindleg	7
+D. simulans	Gr64f-GAL4	female	hindleg	7
+D. simulans	Gr64f-GAL4	female	hindleg	7
+D. simulans	Gr64f-GAL4	female	hindleg	7
+D. simulans	Gr64f-GAL4	female	hindleg	4
+D. simulans	Gr64f-GAL4	female	hindleg	8
+D. simulans	Gr64f-GAL4	female	hindleg	6
+D. simulans	Gr64f-GAL4	female	hindleg	5
+D. simulans	Gr64f-GAL4	male	hindleg	4
+D. simulans	Gr64f-GAL4	male	hindleg	8
+D. simulans	Gr64f-GAL4	male	hindleg	5
+D. simulans	Gr64f-GAL4	male	hindleg	5
+D. simulans	Gr64f-GAL4	male	hindleg	7
+D. simulans	Gr66a-GAL4	female	hindleg	6
+D. simulans	Gr66a-GAL4	female	hindleg	5
+D. simulans	Gr66a-GAL4	female	hindleg	4
+D. simulans	Gr66a-GAL4	female	hindleg	3
+D. simulans	Gr66a-GAL4	female	hindleg	7
+D. simulans	Gr66a-GAL4	female	hindleg	3
+D. simulans	Gr66a-GAL4	female	hindleg	6
+D. simulans	Gr66a-GAL4	female	hindleg	4
+D. simulans	Gr66a-GAL4	female	hindleg	5
+D. simulans	Gr66a-GAL4	female	hindleg	5
+D. simulans	Gr66a-GAL4	female	hindleg	6
+D. simulans	Gr66a-GAL4	female	hindleg	5
+D. simulans	Gr66a-GAL4	male	hindleg	6
+D. simulans	Gr66a-GAL4	male	hindleg	6
+D. simulans	Gr66a-GAL4	male	hindleg	5
+D. simulans	Gr66a-GAL4	male	hindleg	6
+D. simulans	Gr66a-GAL4	male	hindleg	5
+D. simulans	Gr66a-GAL4	male	hindleg	5
+D. simulans	Gr66a-GAL4	male	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	female	hindleg	6
+D. sechellia	Gr64f-GAL4	male	hindleg	6
+D. sechellia	Gr64f-GAL4	male	hindleg	6
+D. sechellia	Gr64f-GAL4	male	hindleg	6
+D. sechellia	Gr64f-GAL4	male	hindleg	6
+D. sechellia	Gr64f-GAL4	male	hindleg	6
+D. sechellia	Gr64f-GAL4	male	hindleg	6
+D. sechellia	Gr64f-GAL4	male	hindleg	7
+D. sechellia	Gr64f-GAL4	male	hindleg	6
+D. sechellia	Gr66a-GAL4	female	hindleg	3
+D. sechellia	Gr66a-GAL4	female	hindleg	4
+D. sechellia	Gr66a-GAL4	female	hindleg	3
+D. sechellia	Gr66a-GAL4	female	hindleg	4
+D. sechellia	Gr66a-GAL4	female	hindleg	4
+D. sechellia	Gr66a-GAL4	female	hindleg	3
+D. sechellia	Gr66a-GAL4	female	hindleg	6
+D. sechellia	Gr66a-GAL4	female	hindleg	6
+D. sechellia	Gr66a-GAL4	female	hindleg	6
+D. sechellia	Gr66a-GAL4	female	hindleg	6
+D. sechellia	Gr66a-GAL4	male	hindleg	4
+D. sechellia	Gr66a-GAL4	male	hindleg	3
+D. sechellia	Gr66a-GAL4	male	hindleg	3
+D. sechellia	Gr66a-GAL4	male	hindleg	4
+D. sechellia	Gr66a-GAL4	male	hindleg	4
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	female	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr64f-GAL4	male	pharynx LSO	2
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	5
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	3
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	5
+D. melanogaster	Gr66a-GAL4	female	pharynx LSO	3
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	5
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	4
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	5
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	3
+D. melanogaster	Gr66a-GAL4	male	pharynx LSO	5
+D. simulans	Gr64f-GAL4	female	pharynx LSO	3
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	female	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr64f-GAL4	male	pharynx LSO	2
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	5
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	5
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	female	pharynx LSO	5
+D. simulans	Gr66a-GAL4	female	pharynx LSO	4
+D. simulans	Gr66a-GAL4	male	pharynx LSO	4
+D. simulans	Gr66a-GAL4	male	pharynx LSO	4
+D. simulans	Gr66a-GAL4	male	pharynx LSO	6
+D. simulans	Gr66a-GAL4	male	pharynx LSO	5
+D. simulans	Gr66a-GAL4	male	pharynx LSO	5
+D. simulans	Gr66a-GAL4	male	pharynx LSO	5
+D. sechellia	Gr64f-GAL4	female	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	female	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	female	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	female	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	female	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	female	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	male	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	male	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	male	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	male	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	male	pharynx LSO	2
+D. sechellia	Gr64f-GAL4	male	pharynx LSO	2
+D. sechellia	Gr66a-GAL4	female	pharynx LSO	4
+D. sechellia	Gr66a-GAL4	female	pharynx LSO	4
+D. sechellia	Gr66a-GAL4	female	pharynx LSO	3
+D. sechellia	Gr66a-GAL4	female	pharynx LSO	5
+D. sechellia	Gr66a-GAL4	female	pharynx LSO	4
+D. sechellia	Gr66a-GAL4	female	pharynx LSO	4
+D. sechellia	Gr66a-GAL4	male	pharynx LSO	3
+D. sechellia	Gr66a-GAL4	male	pharynx LSO	4
+D. sechellia	Gr66a-GAL4	male	pharynx LSO	5
+D. sechellia	Gr66a-GAL4	male	pharynx LSO	4
+D. sechellia	Gr66a-GAL4	male	pharynx LSO	3
+D. sechellia	Gr66a-GAL4	male	pharynx LSO	5

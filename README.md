@@ -32,6 +32,9 @@ library()
 
 ![](./output/flyPAD_Dtrio.png)
 
+## cell counts
+
+![](./output/taste_cell_counts_Dtrio.png)
 
 ---
 
