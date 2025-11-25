@@ -1,0 +1,20 @@
+theme_dff <- function(){ 
+  theme(panel.grid = element_blank(),
+        plot.background = element_blank(),
+        panel.background = element_blank(),
+        axis.line.x = element_line(colour = "black", linewidth = 0.2),
+        axis.line.y = element_blank(),
+        legend.position = "none",
+        plot.title = element_text(size = 6, colour = "black"),
+        axis.title.y = element_text(size = 8, colour = "black"),
+        axis.title.x = element_text(size = 8, colour = "black"),
+        axis.text.x = element_text(size = 6, vjust = 1, hjust=0.5, colour = "black"),
+        axis.text.y = element_text(size = 6, vjust = 0.5, hjust=1, colour = "black", face = "italic"),
+        # axis.text.y = element_blank(),
+        strip.text.x = element_text(angle = 0, size = 6, colour = "black", hjust = 1),
+        strip.background = element_blank(),
+        panel.spacing = unit(0, "mm"),
+        axis.ticks.y = element_blank(),
+        axis.ticks.x = element_line(linewidth = 0.2, colour = "black"),
+        plot.margin = margin(1, 1, 1, 1))
+}

@@ -1,0 +1,156 @@
+---
+title: "Analysis calcium imaging"
+author: "Enrico Bertolini"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# libraries
+
+```{r}
+library(tidyverse)
+library(ggh4x)
+library(ggpubr)
+
+for (i in list.files("../R", full.names = TRUE, pattern = '.R')) {
+  source(i)
+}
+```
+
+# widefield imaging
+
+## plot interspecific
+
+```{r}
+read_tsv(file = "../data/widefield_imaging.tsv", show_col_types = FALSE) %>%
+  filter(genotype == "w*;Gr66a-GAL4/+",
+         stimulation == "labellum",
+         stimulus %in% c("water",
+                          "denatonium benzoate 10mM",
+                          "caffeine 10mM",
+                          "noni juice")
+         ) %>%
+  select(everything()) -> df
+
+p <- df %>% 
+  plot_dff(x_var = species,
+           order_x = rev(c("D. melanogaster", "D. sechellia")),
+           facet_var = stimulus,
+           order_facets = c("water", 
+                            "denatonium benzoate 10mM", 
+                            "caffeine 10mM", 
+                            "noni juice"),
+           x_pos_N_label = 4) +
+  force_panelsizes(rows = unit(6, "mm"),
+                   cols = unit(40, "mm"))
+
+p
+
+ggsave("../output/widefield_neurophysiology.png",
+       plot = p,
+       width = 9,
+       height = 6,
+       units = "cm")
+```
+
+### stats
+
+```{r}
+# STATS
+df %>%
+  group_by(stimulus) %>%
+  group_walk(~ {
+    stim_name <- .y$stimulus
+    cat("\n----", stim_name, "----\n")
+    print(wilcox.test(dff ~ species, data = .x))
+  })
+```
+
+
+## plot intraspecific
+
+```{r}
+read_tsv(file = "../data/widefield_imaging.tsv", show_col_types = FALSE) %>%
+  filter(genotype == "w*;Gr66a-GAL4/+",
+         stimulation == "labellum") %>%
+  plot_dff(x_var = stimulus,
+           order_x = rev(c("water", "denatonium benzoate 10mM", "caffeine 10mM", "noni juice")),
+           facet_var = species,
+           order_facets = c("D. melanogaster", "D. sechellia"),
+           x_pos_N_label = 4) +
+  theme(
+    axis.text.y = element_text(size = 6, vjust = 0.5, hjust=1, colour = "black", face = "plain"),
+    strip.text.x = element_text(angle = 0, size = 6, colour = "black", hjust = 1, face = "italic"),
+  ) +
+  force_panelsizes(rows = unit(10, "mm"),
+                          cols = unit(40, "mm"))
+
+```
+
+# volumetric imaging
+
+```{r}
+read_tsv(file = "../data/volumetric_imaging.tsv", show_col_types = FALSE) %>%
+  norm_dff() %>% #normalise delta F/F per fly
+  filter(ROI_quantified == "motor region",
+         stimulus %in% c("no stimulus", 
+                           "water", 
+                           "sucrose 200mM", 
+                           "grape juice", 
+                           "noni juice"),
+         species %in% c("D. melanogaster", 
+                         "D. sechellia")
+         ) %>%
+  select(everything()) -> df
+
+p <- df %>% 
+  plot_dff(x_var = stimulus,
+           order_x = rev(c("no stimulus", 
+                           "water", 
+                           "sucrose 200mM", 
+                           "grape juice", 
+                           "noni juice")),
+           facet_var = species,
+           order_facets = c("D. melanogaster", 
+                            "D. sechellia"),
+           coord_min = -2,
+           coord_max = +6,
+           x_pos_N_label = 6,
+           title = "motor region") +
+  theme(
+    axis.text.y = element_text(size = 6, vjust = 0.5, hjust=1, colour = "black", face = "plain"),
+    strip.text.x = element_text(angle = 0, size = 6, colour = "black", hjust = 1, face = "italic"),
+  ) +
+  ylab("normalised ΔF/F (%)") + #overwrites with normalised labelling
+  force_panelsizes(rows = unit(12, "mm"),
+                   cols = unit(40, "mm"))
+
+p
+
+ggsave("../output/volumetric_neurophysiology.png",
+       plot = p,
+       width = 8,
+       height =6,
+       units = "cm")
+```
+
+### stats
+
+```{r}
+# STATS
+df %>%
+  group_by(stimulus) %>%
+  group_walk(~ {
+    stim_name <- .y$stimulus
+    cat("\n----", stim_name, "----\n")
+    print(wilcox.test(dff ~ species, data = .x))
+  })
+```
+
+
+```{r}
+sessionInfo()
+```

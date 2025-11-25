@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### libraries
+# libraries
 
 ```{r}
 library(tidyverse)
@@ -22,8 +22,10 @@ for (i in list.files("../R/", full.names = TRUE, pattern = '.R')) {
 
 # 72-well assay
 
+## plots
+
 ```{r}
-read_tsv(file = "../data/behaviour_colorimetric_assays.tsv", show_col_types = FALSE) %>%
+read_tsv(file = "../data/behaviour_colorimetric_assay.tsv", show_col_types = FALSE) %>%
   filter(
     assay_type == "72-well colorimetric",
     two_choice == "noni juice vs grape juice"
@@ -64,11 +66,26 @@ ggsave("../output/72_well_colorimetric_Dtrio.png",
 
 ```
 
+## stats
+
+```{r}
+kruskal.test(df$preference_index ~ df$species)
+
+dunn.test::dunn.test(
+  x = df$preference_index,
+  g = df$species,
+  kw = TRUE,
+  method = "bonferroni"
+)
+```
+
 
 # petri dish assay
 
+## plots
+
 ```{r}
-read_tsv(file = "../data/behaviour_colorimetric_assays.tsv", show_col_types = FALSE) %>%
+read_tsv(file = "../data/behaviour_colorimetric_assay.tsv", show_col_types = FALSE) %>%
   filter(
     assay_type == "petri dish colorimetric",
     two_choice == "noni juice vs grape juice",
@@ -93,12 +110,19 @@ df %>%
                           cols = unit(20, "mm")) 
 ```
 
+## stats
+
+```{r}
+kruskal.test(df$preference_index ~ df$strain)
+
+dunn.test::dunn.test(
+  x = df$preference_index,
+  g = df$strain,
+  kw = TRUE,
+  method = "bonferroni"
+)
+```
 
 ```{r}
 sessionInfo()
 ```
-
-
-
-
-

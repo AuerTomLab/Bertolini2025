@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### libraries
+# libraries
 
 ```{r}
 library(tidyverse)
@@ -20,13 +20,16 @@ for (i in list.files("../R", full.names = TRUE, pattern = '.R')) {
 }
 ```
 
-# Plot cell counts
+# plot cell counts
 
 ```{r}
-p <- read_tsv(file = "../data/taste_cell_counts.tsv", show_col_types = FALSE) %>%
+read_tsv(file = "../data/taste_cell_counts.tsv", show_col_types = FALSE) %>%
   filter(driver == "Gr64f-GAL4",
          sex == "female",
          tissue == "labellum") %>%
+  select(everything()) -> df
+  
+p <- df %>%   
   plot_cell_counts(
     x_var = species,
     ymax = 40,
@@ -45,7 +48,21 @@ ggsave("../output/taste_cell_counts_Dtrio.png",
        units = "cm")
 
 ```
+## stats
 
+```{r}
+kruskal.test(df$number_cells ~ df$species)
+
+dunn.test::dunn.test(
+  x = df$number_cells,
+  g = df$species,
+  kw = TRUE,
+  method = "bonferroni"
+)
+```
+
+
+# plot intraspecific
 
 ```{r}
 read_tsv(file = "../data/taste_cell_counts.tsv", show_col_types = FALSE) %>%
@@ -63,6 +80,7 @@ read_tsv(file = "../data/taste_cell_counts.tsv", show_col_types = FALSE) %>%
                           cols = unit(25, "mm"))
 
 ```
+
 
 ```{r}
 sessionInfo()

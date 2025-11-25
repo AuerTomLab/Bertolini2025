@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### libraries
+# libraries
 
 ```{r}
 library(tidyverse)
@@ -20,10 +20,10 @@ for (i in list.files("../R/", full.names = TRUE, pattern = '.R')) {
 }
 ```
 
-# Preference index
+# preference index
 
 ```{r}
-read_tsv(file = "../data/behaviour_flyPAD_assays.tsv", show_col_types = FALSE) %>%
+read_tsv(file = "../data/behaviour_flyPAD_assay.tsv", show_col_types = FALSE) %>%
   filter(
     tastant_comparison == "noni juice vs grape juice",
     species %in% c("D. melanogaster", "D. simulans", "D. sechellia"),
@@ -41,7 +41,6 @@ p <- df %>%
     title = "flyPAD assay"    
     )
 
-
 p
 
 ggsave("../output/flyPAD_Dtrio.png", 
@@ -50,6 +49,26 @@ ggsave("../output/flyPAD_Dtrio.png",
        height = 5, 
        units = "cm")
 
+```
+## stats
+
+```{r}
+df %>% 
+  calculate_PI(
+    x_var = species,
+    food_A = "noni_juice",
+    food_B = "grape_juice"
+    ) %>% 
+  select(everything()) -> df
+
+kruskal.test(df$preference_index ~ df$species)
+
+dunn.test::dunn.test(
+  x = df$preference_index,
+  g = df$species,
+  kw = TRUE,
+  method = "bonferroni"
+)
 ```
 
 
@@ -98,15 +117,9 @@ p <- df %>%
                    cols = unit(30, "mm")) 
 
 p
-
 ```
 
 
 ```{r}
 sessionInfo()
 ```
-
-
-
-
-

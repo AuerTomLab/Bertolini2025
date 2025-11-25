@@ -49,7 +49,36 @@ plot_NSips_flyPAD <- function(df,
 }
 
 
-
+calculate_PI <- function(df, 
+                         x_var, 
+                         food_A, 
+                         food_B,
+                         fill_var = species,
+                         col_var = species
+                         ) {
+  
+  grouping_vars <- unique(c(
+    "fly_id",
+    rlang::as_name(ensym(x_var)),
+    rlang::as_name(ensym(fill_var)),
+    rlang::as_name(ensym(col_var))
+  ))
+  
+  df %>%
+    group_by(across(all_of(grouping_vars))) %>%
+    summarise(
+      preference_index =
+        (
+          `NumberOfSips/1hour`[food_choice == {{ food_A }}] -
+            `NumberOfSips/1hour`[food_choice == {{ food_B }}]
+        ) /
+        (
+          `NumberOfSips/1hour`[food_choice == {{ food_A }}] +
+            `NumberOfSips/1hour`[food_choice == {{ food_B }}]
+        ),
+      .groups = "drop"
+    )
+}
 
 plot_PI_flyPAD <- function(df,
                            x_var,
@@ -62,22 +91,14 @@ plot_PI_flyPAD <- function(df,
                            order_x,
                            title = NULL) {
   
-  grouping_vars <- unique(c("fly_id",
-                            rlang::as_name(ensym(x_var)),
-                            rlang::as_name(ensym(fill_var)),
-                            rlang::as_name(ensym(col_var))))
-  
-  df %>% 
-    group_by(across(all_of(grouping_vars))) %>%
-    summarize(
-      preference_index = (`NumberOfSips/1hour`[food_choice == {{food_A}}] -
-                            `NumberOfSips/1hour`[food_choice == {{food_B}}]) /
-        (`NumberOfSips/1hour`[food_choice == {{food_A}}] +
-           `NumberOfSips/1hour`[food_choice == {{food_B}}]),
-      .groups = "drop"
-    ) %>% 
-    select_all() -> df_PI
-  
+  df_PI <- calculate_PI(
+    df = df,
+    x_var = {{ x_var }},
+    food_A = {{ food_A }},
+    food_B = {{ food_B }},
+    fill_var = {{ fill_var }},
+    col_var = {{ col_var }}
+  )
   
   df_summaries <- df_PI %>%
     group_by({{x_var}}) %>%

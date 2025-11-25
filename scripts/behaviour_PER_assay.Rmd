@@ -1,0 +1,68 @@
+---
+title: "Analysis behaviour - PER assay"
+author: "Enrico Bertolini"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# libraries
+
+```{r}
+library(tidyverse)
+library(ggh4x)
+library(ggpubr)
+
+for (i in list.files("../R", full.names = TRUE, pattern = '.R')) {
+  source(i)
+}
+```
+
+# Proboscis Extension Response
+
+```{r}
+read_tsv(file = "../data/behaviour_PER_assay.tsv", show_col_types = FALSE) %>%
+  filter(
+    species == "D. sechellia"
+  ) %>%
+  select(everything()) -> df
+
+p <- df %>% 
+  plot_PER(
+    x_var = food_substrate,
+    order_x = c("200mM_sucrose", "grape_juice", "noni_juice"),
+    title = "D. sechellia"    
+    ) +
+  force_panelsizes(rows = unit(20, "mm"),
+                          cols = unit(12, "mm"))
+
+p
+
+ggsave("../output/PER_Dsec.png", 
+       plot = p, 
+       width = 9, 
+       height = 5, 
+       units = "cm")
+```
+
+## stats
+
+```{r}
+# STATS
+
+kruskal.test(df$`%_PER` ~ df$food_substrate)
+
+dunn.test::dunn.test(
+  x = df$`%_PER`,
+  g = df$food_substrate,
+  kw = TRUE,
+  method = "bonferroni"
+)
+```
+
+
+```{r}
+sessionInfo()
+```

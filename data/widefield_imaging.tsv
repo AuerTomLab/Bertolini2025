@@ -1,0 +1,1011 @@
+fly_id	species	genotype	sex	stimulation	ROI_quantified	stimulus	dff
+fly_1	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	-0.04871853448333145
+fly_1	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.19436619718309855
+fly_1	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.12287491324901104
+fly_1	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	2.380483207676491
+fly_2	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.048493543758967
+fly_2	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.2221111918604651
+fly_2	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	-0.02811540002671295
+fly_2	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.00340367597004767
+fly_3	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.1579055410859496
+fly_3	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.4090072789835125
+fly_3	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.1735926908340702
+fly_3	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.1207946171099006
+fly_3	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.2846776809939467
+fly_4	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	7.9527777777777775
+fly_4	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	1.884267631103074
+fly_4	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	7.120892018779342
+fly_4	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	3.7318965517241383
+fly_4	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	7.820126354305807
+fly_4	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	3.3513513513513513
+fly_5	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	2.568323276106295
+fly_5	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.03855659911023234
+fly_5	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.3491144414168934
+fly_5	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	2.3791691047396135
+fly_5	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	3.975848370749266
+fly_5	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.5555555555555556
+fly_6	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.9787113255747943
+fly_6	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.3419065596979708
+fly_6	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.32261586993448194
+fly_6	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	-0.20196078431372555
+fly_6	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.02344322344322345
+fly_6	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.02556906766448388
+fly_7	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.28012491897943553
+fly_7	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.5225658426763273
+fly_7	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	1.6835941548346982
+fly_7	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.5823145884270579
+fly_7	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	1.1392632524707995
+fly_7	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.4661873004681043
+fly_7	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.6397464578672634
+fly_8	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	7.089605349316281
+fly_8	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	1.2388059701492538
+fly_8	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	2.8269344359125816
+fly_8	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	4.448837209302326
+fly_8	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	7.840417470174383
+fly_8	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	2.9546247818499127
+fly_9	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	1.9631016248865576
+fly_9	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.03888888888888883
+fly_9	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.8761955366631243
+fly_9	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	2.8124629080118693
+fly_9	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	3.029541761013987
+fly_9	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.6350453172205437
+fly_10	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	2.388888888888889
+fly_10	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.5662009314703926
+fly_10	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	2.147122692725298
+fly_10	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	2.9558359621451107
+fly_10	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	2.197846567967699
+fly_10	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.7427248677248677
+fly_11	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	4.553229799684897
+fly_11	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	-0.05400645729380693
+fly_11	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	2.401923076923077
+fly_12	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.1550920789882404
+fly_12	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.3161961594369215
+fly_12	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.1173692372761877
+fly_12	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.39976121778927465
+fly_12	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.5814225941422596
+fly_13	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.311065608736456
+fly_13	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.0990552533638706
+fly_13	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.1910669975186104
+fly_13	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.5099469496021221
+fly_13	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.7301826093112209
+fly_13	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.978304343365572
+fly_13	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.6533950617283951
+fly_14	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.1011351909184726
+fly_14	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.26417141307295905
+fly_14	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	3.0572894992370645
+fly_14	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	-0.09052400376529658
+fly_14	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.37204808930871625
+fly_15	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.17149003506733268
+fly_15	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.601989677612387
+fly_15	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.260492040520984
+fly_15	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.30188067444876776
+fly_15	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.10064839375184208
+fly_15	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.32236328125
+fly_15	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.6302032913843174
+fly_16	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.42847725774555045
+fly_16	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.8745938139366951
+fly_16	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.3615127919911012
+fly_16	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.14005839219763966
+fly_16	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.23344947735191637
+fly_16	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.5097193762777263
+fly_16	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.9067067410330742
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.3015638831513721
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.5322664118794538
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	0.8930186290468439
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.01118538226434182
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.10161408657373434
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.5463514766256125
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.6151349287169043
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.6976763281409888
+fly_17	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.642512077294686
+fly_18	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.8656716417910448
+fly_18	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.3529048207663782
+fly_18	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.5285323902909502
+fly_18	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.22667638483965016
+fly_18	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.5796019900497512
+fly_18	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	1.074248674130819
+fly_18	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.4715974959424995
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.454196716280497
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.5666237528162215
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.0500229085015358
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.04215085609212039
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.13172882601506522
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.496547583308316
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.06089153904581362
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.4565217134383725
+fly_19	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.8128970775095297
+fly_20	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.365104496516783
+fly_20	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.275243081525804
+fly_20	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.11718750000000008
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.17641256869099628
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.9057978051859764
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.5419632511173649
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.33044050207691283
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.18879833290434103
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.7609961190168177
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.9219247183943068
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.3625375510504356
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.4793283700300967
+fly_21	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	0.30759592795614715
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.8163239719157471
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.232439074339545
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	0.9054346442662594
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.31770153152083574
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.42913385826771666
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.5560849441873124
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	1.589467005076142
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.5906389301634476
+fly_22	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.523076923076923
+fly_23	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.0804421246545903
+fly_23	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.227111669905132
+fly_23	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.2866847826086958
+fly_23	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.1472198213771247
+fly_23	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.6209656778504992
+fly_23	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.2298136645962733
+fly_23	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	0.03873109553670226
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	2.427116262732701
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.0129538405400476
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	2.2220655289257283
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.30813069908814583
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.36607142857142855
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.8835838491010906
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.296420207427233
+fly_24	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	-0.08295501444490304
+fly_25	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.03724152863483812
+fly_25	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.355683269476373
+fly_25	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	0.4435339021104624
+fly_26	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	0.8142559833506765
+fly_26	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.8528916339135317
+fly_26	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	2.981376518218624
+fly_26	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	5.211382113821138
+fly_26	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	5.669859998931818
+fly_26	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.123128119800333
+fly_26	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	3.661565626839317
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	-0.38287078484034615
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	0.6331417624521073
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	2.1010320478001083
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	4.365677045619116
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.2798530312308633
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.5645631067961164
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	3.922349427575909
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	1.340316573556797
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	3.274171584203359
+fly_27	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	1.3642666666666663
+fly_28	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.2012066365007541
+fly_28	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.0596146508966042
+fly_28	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	0.5171885873347253
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.195507912200102
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	2.180205746718695
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	3.4631029986962196
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.25288135593220334
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.9193593706097216
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	5.63552043971144
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	1.9733458764502976
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.5390050876201244
+fly_29	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	2.654086781029263
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	0.14825345247766047
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	0.06228993950257669
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	0.42358657243816256
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	1.0463513936736613
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.2823709536307962
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.2624836601307189
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	1.249425580801634
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	1.1689411764705882
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.2960199004975124
+fly_30	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	1.1963808348755915
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	1.2677376171352075
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	2.8155668358714045
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	8.081555834378921
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	1.0099667774086378
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	3.3194207836456555
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	5.7740112994350286
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	6.652173913043478
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.967798085291558
+fly_31	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	5.889233954451347
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	-0.02777777777777777
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	3.2034990791896867
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	0.9428137651821864
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	2.281208935611038
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.1247990812109767
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.32096069868995636
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	1.925872093023256
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	1.837953091684435
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.44
+fly_32	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	1.4880382775119618
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	0.1674357284113382
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	0.06575875486381327
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	1.0824688796680495
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	6.036336109008326
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.9557761732851984
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.4251968503937007
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	1.4705244122965642
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	7.450222882615156
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.30731865284974086
+fly_33	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	3.249354005167959
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	0.30829420970266036
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	0.2839116719242903
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	0.9727582292849034
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	2.1857142857142855
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.2638888888888889
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	2.4267578125
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	2.8283302063789875
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.8092105263157895
+fly_34	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	3.804755944931164
+fly_35	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	2.768297964486791
+fly_35	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.30009462443112694
+fly_35	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	-0.00239111870196409
+fly_36	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.1024608501118569
+fly_36	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	1.2114308553157471
+fly_36	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	0.248338615683468
+fly_37	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.43662807954882765
+fly_37	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	3.3681083650190113
+fly_37	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	1.418114431318045
+fly_38	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.9413871703028328
+fly_38	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.1928892993189428
+fly_38	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	0.9280270956816256
+fly_39	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.17723244717109737
+fly_39	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.8067632850241545
+fly_39	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	0.9433181630119984
+fly_40	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.8149453648219949
+fly_40	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.444856543037089
+fly_40	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.5468050468050467
+fly_41	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.5618330194601382
+fly_41	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.24385447394296952
+fly_41	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.5186267348429511
+fly_42	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.8188747731397457
+fly_42	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	2.3065785332074284
+fly_42	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	1.8019938123066348
+fly_43	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	2.081809872029251
+fly_43	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.417276720351391
+fly_43	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	-0.03087456400981788
+fly_44	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.782608695652174
+fly_44	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	0.7957371225577264
+fly_45	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.178406466512702
+fly_45	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.2925373134328355
+fly_46	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.7918156535558205
+fly_46	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	1.837909836065574
+fly_46	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	1.4547061422889969
+fly_47	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.21453287197231835
+fly_47	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.8204030226700251
+fly_47	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	0.7279102384291724
+fly_48	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.62575195187508
+fly_48	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.24827696746273453
+fly_48	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	-0.09483771251931997
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	caffeine 10mM	-0.07074569789674957
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	coumarin 10mM	-5.753739930955285e-4
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	-0.03571428571428573
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	grape juice	0.08118811881188112
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.1270718232044199
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.05385097056981833
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	0.8787878787878788
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	1.0553319919517103
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	1.6694214876033058
+fly_49	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	0.05542168674698788
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	caffeine 10mM	-0.03889255108767296
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	coumarin 10mM	0.18855932203389825
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.04093567251461988
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	grape juice	0.04579630895420377
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.312
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.25222755311857437
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	0.7383669885864793
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	0.2820874471086038
+fly_50	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	0.6618887015177066
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	caffeine 10mM	0.09145129224652092
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	coumarin 10mM	0.4023668639053254
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	-0.03519999999999998
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.1538461538461538
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	grape juice	0.45849802371541504
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.26943942133815557
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.523076923076923
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	0.4289693593314765
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	2.2
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	0.6216216216216217
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	3.1386861313868617
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	0.4444444444444444
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.4318181818181819
+fly_51	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	0.5726315789473684
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	caffeine 10mM	0.0465116279069767
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	coumarin 10mM	0.08108108108108109
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	-0.02285714285714289
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	grape juice	0.05780346820809252
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.07017543859649122
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.19750519750519752
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	0.18181818181818185
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	1.1219512195121952
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	1.6194029850746272
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	1.2359081419624216
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	1.589041095890411
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.1729857819905214
+fly_52	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	0.11428571428571424
+fly_53	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.9307958477508648
+fly_53	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	1.102459016393443
+fly_53	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	1.1140939597315431
+fly_53	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	1.0300751879699248
+fly_53	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	0.9603960396039606
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	caffeine 10mM	0.7573964497041419
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	coumarin 10mM	0.6968152866242037
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.00981767180925658
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	grape juice	0.25029940119760485
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.3695652173913044
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	water	0.7802197802197803
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	0.3421052631578947
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni extract	1.116248348745046
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	1.1386138613861387
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	noni juice	1.6527446300715989
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.7718383311603649
+fly_54	D. sechellia	w*;Gr66a-GAL4/Gr66a-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	0.8437025796661607
+fly_55	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.28163580246913583
+fly_55	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.2461328480436761
+fly_55	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	2.1948529411764706
+fly_55	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	1.2316426949280848
+fly_55	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.7561171279582832
+fly_55	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.08681273253410501
+fly_56	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.3460421205519244
+fly_56	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.17641179410294855
+fly_56	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.7781025179856115
+fly_56	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.7672571777642029
+fly_56	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.1903409090909091
+fly_56	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.02588996763754045
+fly_57	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.9673024523160765
+fly_57	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.5103413904809369
+fly_57	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.6445737414621806
+fly_57	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	1.2287866772402856
+fly_58	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.176246427437282
+fly_58	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.11187202103763771
+fly_58	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.3027001421127427
+fly_58	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	-0.03157162726008343
+fly_59	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.661578017033585
+fly_59	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.4706146253925528
+fly_59	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.30665396220422414
+fly_59	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.04623739332816142
+fly_60	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.42857142857142855
+fly_60	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.1426940639269406
+fly_60	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	2.633484162895928
+fly_60	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.499648629655657
+fly_60	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.2377179080824088
+fly_60	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.19673055242390072
+fly_61	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.3271686481726111
+fly_61	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.0876927729059571
+fly_61	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	1.0789555486478086
+fly_61	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.6706217370669199
+fly_61	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.4563862928348909
+fly_61	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.10068578553615964
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	0.5072992700729927
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	-0.07920792079207921
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	1.454159792599576
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	0.8008835594824866
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	1.7564469914040115
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	2.424773413897281
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	3.137332022287775
+fly_62	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	8.29296875
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.16646039603960397
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	2.0896610896610897
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	0.87913172175629
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	1.2728341826734615
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	1.1511746680286006
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	2.5915782266347147
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	1.6856287425149703
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	4.088407923697726
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	1.0230923694779115
+fly_63	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	4.510427528675703
+fly_64	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.2903225806451613
+fly_64	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.11009174311926596
+fly_64	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	1.145
+fly_64	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.6674816625916872
+fly_64	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.46072874493927135
+fly_64	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.5487062404870624
+fly_65	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.4170305676855896
+fly_65	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.1349206349206349
+fly_65	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.5988372093023256
+fly_65	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.8518518518518519
+fly_65	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.48583877995642705
+fly_65	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.14132379248658314
+fly_66	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	1.0530612244897961
+fly_66	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	0.9350473612990527
+fly_66	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	1.1233379183860617
+fly_67	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	0.6137101135749053
+fly_67	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	1.4776318718005783
+fly_67	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	1.2779417967102489
+fly_68	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.7821985233798197
+fly_68	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.1274160732451679
+fly_68	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.8736604624929497
+fly_68	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.7535583570557138
+fly_68	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.2765345268542199
+fly_68	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.31615720524017477
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	0.5627204030226699
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	1.1369863013698631
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	3.636301835486064
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	3.7926300578034686
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.37709923664122136
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.2764612954186414
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	3.0329925650557623
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	2.5298507462686564
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.031804281345566
+fly_69	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	7.152241112828439
+fly_70	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	2.3405529953917052
+fly_70	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.81739898432325
+fly_70	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.5986640187759523
+fly_70	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.152046783625731
+fly_70	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.9835121695891128
+fly_70	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.270770010131712
+fly_70	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	0.3236514522821576
+fly_71	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.12042839238919908
+fly_71	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.529572462778309
+fly_71	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	1.0728167281672816
+fly_71	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.740130211940712
+fly_71	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.24060150375939843
+fly_71	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.3751530669041523
+fly_72	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.440959409594096
+fly_72	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.5646864686468648
+fly_72	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.1549769004619907
+fly_72	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.8911000552791596
+fly_72	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.05449770190413648
+fly_72	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.552596537949401
+fly_73	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.6026490066225165
+fly_73	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.2317708333333333
+fly_73	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.4032328527741372
+fly_73	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.3783783783783784
+fly_73	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.5538617886178862
+fly_73	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.22763028515240907
+fly_74	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	1.7173590504451035
+fly_74	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	1.5246765692381408
+fly_74	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	0.7971739770385635
+fly_75	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	1.6619570646272628
+fly_75	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	1.1458357874896925
+fly_75	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	0.512998266897747
+fly_76	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	0.4229979466119097
+fly_76	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	1.048596438273468
+fly_76	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	0.17447916666666663
+fly_77	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	0.4803921568627451
+fly_77	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	1.5826744585768306
+fly_77	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	1.1657509157509158
+fly_78	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	0.8459645669291339
+fly_78	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	0.9524203558129912
+fly_78	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	1.009534706331045
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	3.567251461988304
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	9.533482142857142
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	1.351449275362319
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	3.3352601156069364
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	4.940705128205128
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	4.772746873652437
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	2.0838150289017343
+fly_79	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	4.0966010733452585
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	5.23642943305187
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	2.5649432534678436
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	5.306146572104019
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	3.7773722627737225
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	2.9828884325804244
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	8.159420289855072
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	2.860026041666667
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.9516129032258064
+fly_80	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	3.320460147904684
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	2.953325554259043
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	8.582152974504247
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	3.302752293577982
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.5156081808396125
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	2.5656913367756737
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	4.701348747591522
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	1.9364908503767495
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.2065541211519364
+fly_81	D. sechellia	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	3.767727930535456
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	1.495582329317269
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	0.22931442080378253
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	1.625
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	1.1109813084112152
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	2.697331460674157
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	4.004694835680751
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	3.3087121212121215
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.9632653061224488
+fly_82	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	3.8717693836978135
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.2550335570469799
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.75
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.2236740968485782
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.402520385470719
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.5323014804845222
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.1700143472022952
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	1.5158730158730158
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.56237077877326
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.1393210749646396
+fly_83	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	0.8948387096774194
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.6493902439024393
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.3002247191011235
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.2706422018348624
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.3021060275962236
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.4142071035517759
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.915966386554622
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	1.314339386349405
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.275578790141897
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.417259786476868
+fly_84	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	0.24106517168885783
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.6228364763626966
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.44612821326563
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.261414714927845
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.05241038318912231
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.16417910447761194
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	2.0523326572008114
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	1.0681551116333723
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.2431108389467236
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	0.48872180451127817
+fly_85	D. melanogaster	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	0.19696969696969696
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.2149253731343284
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	2.089949748743719
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	2.9802631578947367
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.1655629139072847
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.06197854588796195
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.9278350515463916
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	0.6752293577981651
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.6817906836055656
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.1494252873563215
+fly_86	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	0.29200652528548127
+fly_87	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.2719826547819802
+fly_87	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.3318306230880696
+fly_87	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.11251236399604356
+fly_87	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.40260756192959585
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.6445042275172945
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.6187311178247732
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	denatonium benzoate 10mM	1.0481087036356962
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	grape juice	0.05342741935483865
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	water	0.31290322580645163
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	1.0828840970350404
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni extract	1.0712195121951218
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	noni juice	1.1760728982951207
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.029636711281071
+fly_88	D. sechellia	w*;Gr66a-GAL4/+	female	labellum	PMS4	sucrose 200mM	0.5298013245033112
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	fructose 200mM	0.3253012048192771
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	glucose 200mM	2.268115942028986
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	grape juice	1.0370370370370372
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	water	0.390619786784449
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	hexanoic acid 0.5%	0.9775280898876406
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni extract	1.3687064291247095
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	noni juice	1.580198430819046
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	octanoic acid 0.1%	1.3419354838709674
+fly_89	D. melanogaster	w*;Gr64f-GAL4/+	female	labellum	PMS4	sucrose 200mM	2.511904761904762
+fly_90	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.8414403032217309
+fly_90	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.7442783745913125
+fly_90	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.4374350086655114
+fly_90	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.626498616661543
+fly_91	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.589978448275862
+fly_91	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.4191073919107391
+fly_91	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.4276885043263288
+fly_92	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.8688711516533636
+fly_92	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.8383838383838383
+fly_92	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.5022573363431151
+fly_92	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.6129458388375166
+fly_93	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.6416826003824092
+fly_93	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.5868665977249223
+fly_93	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.33266398929049534
+fly_93	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	1.7390199637023591
+fly_94	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.9443983402489629
+fly_94	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.38831768737893
+fly_94	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	water	0.4456935030583568
+fly_94	D. sechellia	w*;Gr66a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.7552618697993148
+fly_95	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	caffeine 10mM	0.21305977510357071
+fly_95	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	coumarin 10mM	1.4417429744237449
+fly_95	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.aDELTA3	female	labellum	PMS4	noni juice	1.9050104384133617
+fly_96	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	1.235759493670886
+fly_96	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.7594953607903343
+fly_96	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	2.1775578993149938
+fly_97	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.6744145403704999
+fly_97	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.2673400673400672
+fly_97	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	0.8025508116218797
+fly_98	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.2370733701205805
+fly_98	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.8676698832579797
+fly_98	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.5097181729834792
+fly_99	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	3.5509249847529993
+fly_99	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	1.471218206157965
+fly_99	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	1.6123166259168706
+fly_100	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.1998874665916446
+fly_100	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	1.7122445844215703
+fly_100	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	0.27568845047266743
+fly_101	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.1151100535395595
+fly_101	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	2.0161626694473407
+fly_101	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	1.0795660036166366
+fly_102	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.0715697904310002
+fly_102	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	1.8901192504258943
+fly_102	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	1.4316851008458036
+fly_103	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.1984732824427481
+fly_103	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.4468313641245971
+fly_103	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	1.128957400961379
+fly_104	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	1.0711752786220872
+fly_104	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.21714768672134233
+fly_104	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.19809145638529524
+fly_105	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	3.0014511447920023
+fly_105	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.9374701995776852
+fly_105	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.9323479932708484
+fly_106	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	caffeine 10mM	2.7028801355357897
+fly_106	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.9432498815012712
+fly_106	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dmel-Gr39a.a	female	labellum	PMS4	noni juice	0.32270081490104785
+fly_107	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.19002123142250532
+fly_107	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	0.8280373831775701
+fly_107	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	0.2790405708999603
+fly_108	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	0.34969173859432806
+fly_108	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	1.775483870967742
+fly_108	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	2.0778816199376946
+fly_109	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	caffeine 10mM	2.26260065612884
+fly_109	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	coumarin 10mM	1.872703712173184
+fly_109	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/UAS-Dsec-Gr39a.a	female	labellum	PMS4	noni juice	1.4494550408719344
+fly_110	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.325242718446602
+fly_110	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	1.6720874433484405
+fly_110	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.35940246045694185
+fly_111	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	1.380211335254563
+fly_111	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	1.2812188265167317
+fly_111	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.770540340488527
+fly_111	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.4957720958324944
+fly_111	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.1255980861244019
+fly_112	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.2641227458403905
+fly_112	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.196669808356896
+fly_112	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.8881454447147877
+fly_112	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.9166666666666666
+fly_112	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.1657636435021594
+fly_112	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.3427779702112919
+fly_113	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.7499647241427966
+fly_113	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.08584892774211167
+fly_113	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.6722905168088308
+fly_113	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.7508522217570719
+fly_113	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.1931518311128274
+fly_113	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.1163806173812844
+fly_114	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	grape juice	0.3845362499323191
+fly_114	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.08384684257649978
+fly_114	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.6308429884139033
+fly_114	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	noni juice	0.3702562346630143
+fly_114	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	octanoic acid 0.1%	0.08678750818956102
+fly_114	D. sechellia	w*;Ir25a-GAL4/+	female	labellum	AMS1	sucrose 200mM	0.32408093473924204
+fly_115	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	water	0.8298459954126293
+fly_115	D. melanogaster	w*;Ir25a-GAL4/+	female	labellum	AMS1	hexanoic acid 0.5%	0.509994952044422
+fly_116	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.02819641664488776
+fly_116	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	0.00457212801958454
+fly_116	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	0.203913491246138
+fly_117	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.624368613842298
+fly_117	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	4.056212700568202
+fly_117	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	1.693096471072396
+fly_118	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	caffeine 10mM	0.270096867530507
+fly_118	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	coumarin 10mM	1.9290261959920296
+fly_118	D. melanogaster	w*;deltaGr39a;Gr39a.a-GAL4/+	female	labellum	PMS4	noni juice	0.9725947839343728
+fly_119	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.5077502331227898
+fly_119	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.39776856049644704
+fly_119	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.01630007322828239
+fly_119	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.43509170589190066
+fly_119	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.5174940685347028
+fly_119	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.28273340934180285
+fly_119	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.21875646843404187
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	-0.0098570724494825
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.38106582253695787
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.39079503477653166
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.44805990469707285
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.22575747118503692
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.8765398764723751
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.19092001428896177
+fly_120	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.6274377942165433
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.19423458179285216
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	3.5415766231325754
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	1.5422016222479722
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	4.180937235998608
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	0.47459790656114376
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	2.568959273038554
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	4.471778669626847
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	5.101860654624474
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.8622436786004493
+fly_121	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	2.364223405460519
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.4959677419354839
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	2.0625731520662645
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	2.3373191899710704
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	5.8216304863838415
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	1.1173608489576778
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	4.760775209447865
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	5.418589211618257
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	6.35965848452508
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.7976470588235294
+fly_122	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	2.24234256309728
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.0777988614800759
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	1.4364246747796894
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	0.19744592387269216
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	1.3252352812431605
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	0.3471715755025713
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	3.6711353162966063
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	4.020157756354076
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	4.2738228074090605
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.8820126544139801
+fly_123	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	0.8932229243843974
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	0.7134389604468255
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	0.1849522740033689
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	0.33076581247222636
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	0.10191879110724576
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	2.516084468127097
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	3.932727612172506
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	5.760551695530436
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	1.6898880398080682
+fly_124	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	0.9257901969766376
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.17197931358721202
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	3.2255652326911233
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	2.1444314576723995
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	4.202218557937341
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	0.2069767441860465
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	6.482368596141051
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	5.563944053782552
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	5.2971411642719595
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	1.307705887545238
+fly_125	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	4.8144890742587725
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	-0.12376382088777924
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	1.940873412734491
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	0.13697129081744466
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	4.064176289276349
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	3.5624591236102026
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	1.579106850131638
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	6.704628789253948
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	7.487094411169044
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.18737052971840928
+fly_126	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	2.078894775243473
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	2.77747342333529
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	1.3462688667628329
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	3.1852174495744823
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	0.675621625224985
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	3.3595948731737924
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni extract	3.627678694870731
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	2.099577549788775
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	0.5941313771257085
+fly_127	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	3.653354074732531
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	denatonium benzoate 10mM	0.2179616548940464
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	fructose 200mM	5.344883705160371
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	glucose 200mM	3.044025991247845
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	grape juice	2.76365141994252
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	water	0.5656878917848894
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	hexanoic acid 0.5%	2.6659297999676497
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	noni juice	2.8427278623714365
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	octanoic acid 0.1%	2.8438619649255137
+fly_128	D. sechellia	w*;Gr64f-GAL4/Gr64f-GAL4(MUT)	female	labellum	PMS4	sucrose 200mM	5.042233308275815
+fly_129	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.4599354270619313
+fly_129	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.1579964467163295
+fly_129	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	1.1089594629486186
+fly_129	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.5643015075376885
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.16469438714580392
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.5636913767019667
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.91792656587473
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	0.6275999778135226
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	0.413390226556944
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	1.262844990091353
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.5052153515995409
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.2082850894120674
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	1.2182344428364689
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.23693065244152647
+fly_130	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.609173794529561
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.12689409972064675
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.22428128906037711
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.26015769224133467
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	0.3998090804039457
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	0.18782845649776164
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.6224693470202453
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.09948692278813666
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.18048552921967237
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.4126252285763406
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.2468227424749164
+fly_131	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.26583339152293833
+fly_132	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.30292609860551467
+fly_132	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.10278080226750316
+fly_132	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.3103251024883211
+fly_132	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.3366495976591075
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.04341966729837861
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.4166457549142618
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.10396144252314717
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	0.944883640995572
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	0.07713198309331191
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.32224877075887126
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.09533781997844784
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.211996459521212
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.5397785503285574
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.23585536311151625
+fly_133	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.5215342953592759
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.1101754971028388
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.1629816950096281
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.3715170278637771
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	0.19298990971853425
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	0.1381106203441229
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.21442188842100857
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.1933600756612204
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.2769992477125212
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.34511421958337524
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.12982945902900808
+fly_134	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.28691558788916227
+fly_135	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	1.1991572159846149
+fly_135	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	1.333657885219907
+fly_135	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.5494208076215221
+fly_135	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	1.262233272314964
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.2626584624508859
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.34990583804143127
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.2548901140397251
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.12994350282485875
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.2101464567593804
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.2719334376802043
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.7769359656152109
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.34140960327329617
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.3191810773206122
+fly_136	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.4458177342427817
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.11997767857142858
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.6284379069945606
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	1.212772696678149
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.300006458696635
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.35708646552020046
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.17238743215350508
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.7933772067272538
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.5430027091504589
+fly_137	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.4383478436930553
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.10140735384101908
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.4578456143969474
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	1.3033127820879673
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.17612453866859062
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.1011608623548922
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.21195478053915512
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.27948086820317747
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.3263838117025542
+fly_138	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.2190783340472171
+fly_139	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.47427849167895514
+fly_139	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.24488102294859856
+fly_139	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.2515865693757164
+fly_139	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.2689395425477657
+fly_139	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.2671540680126098
+fly_139	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.18545212401339628
+fly_139	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.28433147084284255
+fly_140	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.4343011074528584
+fly_140	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.6191464137522229
+fly_140	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.509417823475952
+fly_140	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.10491322726596852
+fly_140	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.51419013704543
+fly_140	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.457752770543844
+fly_140	D. sechellia	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.24400304979374793
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.0187557850635748
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.16823071641107806
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.326691982706186
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.1144703438726056
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.3517860482513559
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.3981773273145388
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.1825058690548648
+fly_141	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.6821636425881548
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.16150292378767808
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.5404195468345312
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.4400563913261237
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.1713231803075125
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.5440881069474267
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.8113820537906337
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.49012458219386207
+fly_142	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.25758273328299663
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.6460781476121563
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.595608417200366
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	0.7153940261987886
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	0.40528730609569585
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.190202223365608
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.3561771931214835
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.2396467487631583
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.7288463337803699
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.6520418960572927
+fly_143	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.4199267919749178
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.5575037532667322
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.5432409422003595
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	0.6390698950545305
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	0.69025049558479
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.444910449104491
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.5241701034412819
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.5831567340328389
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.7978658536585366
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.5859234045719175
+fly_144	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.6362802835278767
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.03431572645386017
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.08416547788873038
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	fructose 200mM	0.2724699614285318
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	glucose 200mM	0.17657476353391025
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	grape juice	0.31370340157194837
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	water	0.12330286112149774
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.5520829372774165
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.05212415159625593
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	noni juice	0.3451884341255274
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	-0.00604501607717041
+fly_145	D. melanogaster	w*;Ir25a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.03840422734501195
+fly_146	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.06645411975689947
+fly_146	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.7299676058920603
+fly_146	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.19147005444646095
+fly_146	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.11854851109630464
+fly_146	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.233763074677694
+fly_146	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.12999302719394362
+fly_146	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.03360685726232164
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.2198852772466539
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.4603807333588859
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.29591540293998025
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.2841000807102502
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.11742168131620465
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.235146238273346
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.28254480493286466
+fly_147	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.32009770801933374
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.3586856746782563
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.22666590679185605
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.18164885440966383
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.12496596787367274
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.13640144164125312
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.26672568610092323
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.2165293684281026
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	-0.01218087769063907
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.02148749551664547
+fly_148	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.23867306363992755
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.1523873917383045
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.06120384420839656
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.2528027234841815
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.8583312326695236
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.12601855855256594
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.35462623500901014
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.20940499682263625
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.08827482217196053
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.1448250415103622
+fly_149	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.08070175438596491
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.19247863247863248
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.4160514408192426
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.6359012038659356
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.17171601364326866
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.07909073830546684
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.6162044397338515
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.6857866850956001
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.07068555983291015
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.3090038887227042
+fly_150	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.13912231559290383
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.30499728408473653
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.5932489451476793
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.4288172865474711
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.5456525906690601
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.4041870506446949
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.4873165316778358
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.6494906354576886
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.10547034070856524
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.5346783903097523
+fly_151	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.4870558859738864
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.8111260191970275
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.5060101252934355
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.19368512705359392
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.1493877551020408
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.3278186603641833
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.4290584914624263
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.2441570540044387
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.0065252854812398
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.3341508277130595
+fly_152	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.2427854792599385
+fly_153	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.29171235714111654
+fly_153	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.3870772508291573
+fly_153	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.19904852081938065
+fly_153	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.2603124831053684
+fly_153	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.4837993551456208
+fly_153	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.3095796369262008
+fly_153	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.1399920833883098
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.22319746187170855
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.3189243528524755
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.3061926415874328
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.23850896860986548
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.8180522664878346
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.3948887056883759
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.48192127293237547
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.11122406543135714
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.13368287832218406
+fly_154	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.198149497551304
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.08852755194218609
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.4240149065599825
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.1486869450217268
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.2014466961364028
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.08142654728527932
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.16499612567800634
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.10375303034952588
+fly_155	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.17543119214428407
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.3118098826257064
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.1251840942562592
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.9422656974483232
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.14841442677724412
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.09287778058290556
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.42090297524100145
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.30201005025125627
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.0808037622915776
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.17489507576971133
+fly_156	D. sechellia	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.05371414410507404
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.932092004381161
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	caffeine 10mM	0.3852648347272003
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	coumarin 10mM	0.4369374030005173
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	denatonium benzoate 10mM	0.3985969890439032
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	grape juice	0.15345878611184732
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	water	0.308731657707395
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	hexanoic acid 0.5%	0.7881155733236417
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	noni juice	0.4824501032346869
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	no stimulus	0.08208222253402554
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	octanoic acid 0.1%	0.64853228962818
+fly_157	D. melanogaster	w*;Gr66a-GAL4/+	female	foreleg	PMS4	sucrose 200mM	0.2528301886792453

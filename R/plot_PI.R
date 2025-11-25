@@ -1,8 +1,8 @@
 plot_PI <- function(df,
          x_var,
-         fill_var = "species",
+         fill_var = species,
          fill_scale = scale_fill_Drosophila_trio,
-         col_var = "species",
+         col_var = species,
          colour_scale = scale_colour_Drosophila_trio,
          order_x,
          title = NULL) {

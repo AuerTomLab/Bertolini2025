@@ -1,0 +1,1346 @@
+fly_id	species	genotype	sex	stimulation	ROI_quantified	stimulus	dff
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.10944844574733924
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.10252641189420458
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.05080771830112338
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.2550629163851132
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.04628210621378167
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.01767070131755993
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.05743360685081265
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.0874614787751121
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.03602097430772987
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.1589982572407262
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.14696893172590758
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.0452723966360188
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.0033114496639294
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.11288126697525554
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.0348573810329918
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.13430960009462814
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.15443413304882023
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.07413938145553282
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	-0.03319522337797909
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.00479182640031906
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	-0.0051166566160363
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.121271241956637
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.02236418952305444
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.01932670496248665
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.00889395376448939
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.21239752515375365
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.11711067389203764
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.33179804881366654
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.04238713643976056
+fly_1	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.12791604812461405
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.2035737421244185
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.09358418718949638
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.2179697052284035
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	-0.16386963626734458
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.03842283066291118
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.17065238328826512
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.14723348552903154
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.07638508254999984
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	-0.0500125215297082
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	-0.00755381780651732
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01701744519522926
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.11734390947389216
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.06679558768813423
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.07336175211485464
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.04893479802336522
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.08996867151338314
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.02322211516082479
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.16578318990744637
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.08551672272685479
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	1.6698572223294e-4
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	-0.00266015198011891
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	-0.02735325232245873
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.02218715590241491
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.04731239396960419
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.23349567792347448
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.1218490647870237
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.14883891399163812
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.05814146972923877
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.0484930589291787
+fly_2	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.29405134089934964
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.15855443625367244
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.1258061026714103
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.01633009698868174
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.4383547452270499
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.17853741568575524
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.11502255752292186
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.01895934653074383
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.34384247030394804
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.19481590068668328
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.13092032474014634
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.01507389536233614
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.18589641867412507
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.02918504033660541
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.1399805986684014
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.0109188596830953
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.12154429478717133
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.32079736781602
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.3208132136839834
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.02067640616810494
+fly_3	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.3847748347758273
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.10901249567361872
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.2185875527356802
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.2361799988248961
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.19309038976228068
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.0612346598019003
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.1827395849335013
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.0850209304027068
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.1516355854197136
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.14083025077458286
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.1414901823810869
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01487759366829078
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.14996347624945375
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.09566921955112676
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.12693413604189055
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.08456967448981188
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.12980751549434355
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01608465125886705
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.1409064587585727
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.35969282199863556
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.06964391240086208
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.01182819829140556
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.09487051073743806
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.03191174799693605
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.1443004232762473
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.32046044172006993
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.3357597238926815
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2547424833825193
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.3205834689958208
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.02814686102168089
+fly_4	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.31294633581638653
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.3324821793070466
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.41070920196657024
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.05531326779316138
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.24642461854985284
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.03638408515538084
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.7110842793068914
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.14209773179936458
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.15741226058330482
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.153699916285041
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.15839216511658563
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.01099554319019931
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.32523819948597754
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.06317447487158824
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.06554340738727944
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.2321866800960526
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.08524622180886658
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.01020140198704207
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.17631818450712697
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.4412442857373444
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.1288078484227527
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.07552348698175027
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.09548800056703098
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.05267915725233216
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.1388659424419922
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.22673593621636515
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.2661513990023763
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2987463453593979
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.33895922533329326
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.01834599945741462
+fly_5	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.3849652319952478
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	-0.08948213344325126
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	-0.06397335709408815
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.07170794218012774
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	-0.15589769147498805
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.02415782715346505
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.01237882881532031
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.05986719423771945
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.03679052655124505
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	-0.00749278911538233
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	-0.01990260213522627
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.15889258849233945
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.04148779190527332
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.10365588154201268
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.06227735264894694
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.00175184669624924
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.01013255044772648
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.15123290269719944
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.05917153729321139
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.05474722733101985
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.0342264668055377
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.01535108098888629
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.06497742592308167
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.1471485589467081
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.09742371614551508
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.12758951589518747
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.08219150469827537
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.01924207203064321
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.05419811079110047
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.18694171226935663
+fly_6	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.12376703916497005
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.1249512451414112
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.13616204015525687
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.46295157215445737
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.12706204522060963
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.05125846800710548
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.4098423579511384
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.16152959267604344
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.1254009222043822
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.2926134586098061
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.1422771281684895
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.02737763540027495
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.2685176817203946
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.15246626115291648
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.12320506307173314
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.1931072586117259
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.12853397187556254
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01140462092910393
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.20684462280257385
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.40893569198006063
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.14624483492959367
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.20120832085078233
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.1201422127247539
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.07621698494559939
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.1537562132949295
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.263530717695462
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.19858310161862447
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.4620835278435098
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.26675954097283056
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.07504408873062654
+fly_7	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.43109887326885854
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.04974166295665462
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.00565259413385548
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.06063670487560124
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.09166660076245088
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.04070248531404268
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.05942235117828283
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.03318361562029198
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.06612017942768673
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.04918027468386567
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01881324932299756
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.06104731000080815
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.0145506194886353
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.04918143275735068
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.03422405524003527
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01203899679500425
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.15676453620009978
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.05750587598776049
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.08672156201833786
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.07949412862429929
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.06531786806275326
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.307689559413034
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.1960194677758565
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.27593057139236077
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.20070363011660447
+fly_8	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.03637486533106995
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.2049721254039644
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.14635999046804948
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.00278510287153123
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.18352380241929517
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.11874513683160803
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.11877792563990804
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.08439362624307685
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.06989973381685065
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.0448859490432328
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.01635985138853072
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.07401632808903211
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.01921122795120973
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.01997141239214212
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.03247348850730044
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.02395383357992601
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.01207258998055656
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.11236093266928118
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	-0.02622883171101933
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.09269052865631888
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.08861475681656002
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.02371986359595565
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	-0.02249620591097823
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.0666950279811655
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	-0.00693735334759611
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.3025176017907904
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.2913069443925989
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2436396790497537
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.20928898168547447
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.00241398500353807
+fly_9	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.2197384214753299
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	-0.04049671863870899
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.03817714149203272
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.04387258263388491
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.07514770252133586
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.04135045189976352
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	-0.02981776528299048
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	-0.01455559414838554
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.00908327600480188
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.02979025263382012
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.09798025542288571
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.0032107574882483
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	-0.00502043751802243
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.03399488998542111
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.04982352578752689
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.04651967192032747
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.13648383968427324
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.01474722115119742
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.0609085873893699
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.00820723966610678
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	-0.05575293686645682
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.01152419324943745
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	-0.04029020698612832
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.00935441227969558
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	-0.04356713374118023
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.11678828236859463
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.2506399386694042
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2954948655704303
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.4351176521301334
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.00435708653036121
+fly_10	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.27483327194039064
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.05142551617269744
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.09741412856223916
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.02905070960617914
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.18112090840588715
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.0072631468056706
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.13155772559498485
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.07302770213792123
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.1974681868766676
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.1536828865396524
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.2181907430637535
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.00849285428809262
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.1606831309689721
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.12854878680133927
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.14313792400344377
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.18559969790725864
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.1727185291348982
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.0164862435039312
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.0998969247254923
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.2856414677330309
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.06614394858811153
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.1649697245973599
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.11651568523233888
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.03927340315168274
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.16209298596862837
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.4946041232978887
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.5065073656277462
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.8083912809874944
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.6542161056506092
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.00533098658672708
+fly_11	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.773133414498832
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.012706807526182
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.04774082586044737
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	-9.249661443939007e-4
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.01668339149937347
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.04268046583572489
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.03503389687120507
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.02060063413173724
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.03001410181880733
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.05165803951740316
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.1214866158381553
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.00675984220052925
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.08192262638867003
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.03911053816892925
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.02759541589158405
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.07783878309374004
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.12029177994929964
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.00886666274476188
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.09706548478137211
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.04633923093106401
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.01638587335927925
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.090386253137106
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.11409251243753309
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.02536346339023405
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.0856509184297193
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.19479466050171737
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.0843492104235722
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2829011610267709
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.482039443196738
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.01501317463167208
+fly_12	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.311608971309704
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.26372941724317034
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.04414297203599147
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.12154751847225924
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.14672143758889286
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.0046862147550348196
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.04150013656229218
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.2178414610883588
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.13719946558705212
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.10387528300682763
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.25237381155354927
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01580887130370626
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.21483948540797948
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.16181139453540871
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.08832673725957454
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.09010252956766296
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.12877273481959994
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.02591558258765337
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.1863753564672831
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.301641943659697
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.05617842112514902
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.11195353680245557
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.09343972846193652
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.07297945869186001
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.05499330551949261
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.665245406275164
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.515430385936554
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.5379657842560468
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.7499016200774491
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.01692302875452532
+fly_13	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.6740056087784696
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	-0.08336782011874072
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.04082107598478811
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.01558626845256062
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.01198861008747246
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.10803837420463916
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.00574908526726278
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.05455433687071347
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.1100769009294068
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.100774286818846
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.1908785087274868
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.0073430388811082
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.10364304715574112
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.1369776912979515
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.15001299588998968
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.10914459714454904
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.2405454301166741
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00611202915859032
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.15038957703329014
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.22397318837537336
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.07944995215281647
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.11271668309325028
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.161063499343501
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.02336187633965657
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.110670739235867
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.3092076741535918
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.2666334876296287
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.25422999700464644
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.6764487540031205
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.00198358117590797
+fly_14	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.39307316683633464
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.20047658860596013
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.10496192972352164
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.03469412758843163
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.0871553931605401
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.017446395985823
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.01596653092163941
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.13038427455997328
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.09281785525471234
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.07474577562676175
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.14736655373929083
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.00242435014075705
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.04570377972081398
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.1329338372593186
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.10755209812161146
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.08826132132702288
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.12501149012476587
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00789257959483211
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.04308890202187646
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.2421091819244888
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.06149571575330145
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.20054913746895708
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.16211829646425172
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.01760117525197957
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.13497795082782235
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.2827330579767824
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.24222124714871568
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.4234685858709001
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.5508452630053589
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	8.942818784535289e-4
+fly_15	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.3310095633989458
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.0534540711881917
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.10770030121614438
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.2190187531265698
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.0137484336838995
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.07554545250714156
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.16481754964637735
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.19199113389107908
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.2745789495267045
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.03811298717887571
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.1599176967814507
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.19417886173193952
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.2069050294159353
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.2197994967919357
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01891127070876271
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.1469598147157739
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.18088192437380304
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.15755896641051512
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.18824988104494292
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.06599101197992703
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.1248006227580042
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.3437253159026874
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.511582405544965
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.8354375326465006
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.03455974618971619
+fly_16	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.5317152283745923
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.16388718771014466
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.08111033956925488
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.11826675468534724
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.15775648051663224
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.04632010590382556
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.48948746475676264
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.2576739482715324
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.14752298059762264
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.15248260608948908
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.2750186250993878
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.04069524803781607
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.4402660289996975
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.19017683983359748
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.14410852869758495
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.08631656203283652
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.1661297903825688
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.02883342761386549
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.2666225875349674
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.20518442073597404
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.05036874805136524
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.06647633480100766
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.11000094813574592
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.0651445083806704
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.15983621170101667
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.5434096210088881
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.5181230622541633
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.6213255807758225
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.754817239355926
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.08530406910891708
+fly_17	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.7995550528776432
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.10237998270181076
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.06181792073381127
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.0291850036431913
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.08132074802057493
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.02429516569678093
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.05685847231015099
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.13596760877341504
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.04191822983485108
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.028761196989851
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.08832837644885312
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.00107883130694308
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.11580948309553708
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.1487326255280974
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.04199661937301647
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.0335339901684256
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.06409560691707479
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00710903910114815
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.1281709509530137
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.1599058242964076
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.01332902688744128
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.07579825011213451
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.09617030129999084
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.06138038485415215
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.23065461351777888
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.2616684078438506
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.12950326739813606
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.09263231898051716
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.2013522564954094
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.02928669366647026
+fly_18	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.26276339532511256
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.18349939603765972
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.23619420768601088
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.07190202876854113
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.07685395136680312
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.08175596580885276
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.10830504696285366
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.10354871047056304
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.28184785756848013
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.05359313508853052
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.07351442196050666
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.02248382305736673
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.11814952625782976
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.11959833879790954
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.2729114681556512
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.13991273678373092
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.10495825468753275
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00178269984541154
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.1846637894950671
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.1155249302628516
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.02313063964079743
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	-0.07868664489263466
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.01743800591451037
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.00420835328521617
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.03499334971145645
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.24168162658790412
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.42252668063057475
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.18883351521984504
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.2312169065298615
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.02339158283621938
+fly_19	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.2699998512308447
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	-0.09254601681329554
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	-0.00530883245379796
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.13271968130855874
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.10535296507330665
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.03109481315144401
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.04199960382369535
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	-7.083461808595564e-4
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.0359491543722738
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.02108033487220282
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.09276110170885556
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.00808017431646624
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.05880047968601758
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.02981772315160627
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.07261599590238618
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.01195844338700113
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.05903838832062261
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.00489805449019055
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.05826684243773614
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	-0.03961833984402273
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.01823120451611057
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	-0.01301496213074734
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.05113537644062212
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.01993025783295329
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.01155886197571559
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.13908483073630537
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.1318411478521006
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.3762839019753166
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.32020584898102517
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.04009287988091645
+fly_20	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.1787388883464054
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.21366370412369504
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.0767903272351855
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.22933203284545897
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.13131511190102582
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.07988425916031196
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.12062421373501912
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.15612175351232754
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.12033390290508451
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.34345954427971903
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.15950763896125106
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.04634498147321402
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.12570484999850037
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.10240308949032582
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.15475241878680618
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.29906938018664714
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.1244678554942672
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.0236841109284331
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.10744663172293176
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.01924780353444016
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	-0.06986366809403
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.06485391435631949
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	-0.00581354019594658
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.06527940369336034
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	-0.01541228848824335
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.3653103153179642
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.31956457449531517
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.7050152791421904
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.3017658516540189
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.0692359956073574
+fly_21	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.2995448265232826
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.0029561903816594
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.0139761053553959
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.00683479739182429
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	-0.00238044126241891
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.07957944195348832
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.00517183994980107
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.00833715875291882
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	2.976610273858784e-4
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.01348591486198125
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	-0.01814920022978001
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.06730670696145219
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.01102599645874783
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.00631704615001898
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.01158004631149338
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.05220371602457295
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.02193351015569792
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.09468020573429112
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.00797647955449617
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.03042828711640914
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	-0.03471428710096344
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.01785947704931091
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.0039832894338119
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.0664645895767599
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.01967845079521013
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.02751591374531667
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.02449458613747708
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.02713788065109695
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.00790670652904938
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.09443226270815072
+fly_22	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.01843919534848477
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.0036646489285867
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	7.328143697368224e-4
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.01819815155152729
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.02657088113051792
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.01695605357687415
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.03084538723728498
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.03668076918994477
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.00173993901587412
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.02274888195942552
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.02948925019619275
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01112995496600919
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.04220386984864752
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.00379479955786646
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.02465942684253147
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.05891879123244004
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.02731636732135621
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01258564768366374
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.07482083250950917
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.02105621289679259
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	-0.02926371177033536
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	-0.01521117527356131
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	-0.01013157732052164
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.0303461994495771
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.00792316677780216
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.11525796796967117
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.04702561995920138
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.11461676672541768
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.09051205379507396
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.03263442254312219
+fly_23	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.1573507367472521
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	denatonium benzoate 10mM	0.01420953248338016
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.08536250624488392
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.10252917292616624
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.14306392285624614
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.09244453247239635
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.08015315540647468
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	denatonium benzoate 10mM	0.04360080555534814
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.10261433338098538
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.14121366109960937
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.1543552259686808
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.04498985582474716
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.0973154349151684
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	denatonium benzoate 10mM	0.05309769988970675
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.16967821988187015
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.12072029175305256
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.1338142218744052
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01464473625991939
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.1227942280026198
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	denatonium benzoate 10mM	0.07438987726853322
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.03311036874822115
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.04803782045700992
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.03672205097921254
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.06022483439938127
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.02833691090575564
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	denatonium benzoate 10mM	0.34209635680133765
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.343201455345308
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.46324072754473333
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.4533130822466579
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.09268463989500506
+fly_24	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.43480234945085416
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.03230865965483783
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.05855543580750212
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.02990368116360106
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.00764327550919546
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.11141857824795764
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.0224735918029462
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.09096413769686004
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.07068149527806548
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.07510733355390936
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.04280728074648093
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.05466671216157943
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.1856601341156754
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.02763406648444827
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.13616676910713885
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.09337988054357652
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.08325222700597366
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.06718032796894843
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.08179895613258761
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.18689990745939583
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.03475151900753454
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.184295826152676
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.05946355217960326
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.07198509865257195
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.03604849693346638
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.05796371809492397
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.09279272745953072
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.0146457228227039
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.07574770351935577
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.21288647386253537
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2927102672178402
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.272987005271257
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.5042641758480366
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.01693265494778083
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.3162339417049964
+fly_25	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.4932364526897414
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.00914762110593816
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.07881905673172077
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.07093172506771649
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.00794655552711977
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.03325905419448982
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.02753624477794641
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	-0.06325633061533165
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.02353970526540812
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.05236861176048747
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.04331631571932037
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.04429617429947689
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.01034287439188995
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.022196889722373
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.00557190673590841
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.08457848453477342
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.05665556785402237
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.02696850138921423
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.09200073702649436
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.04235648110795104
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01453589762747704
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.12876772240050213
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.00124864412688143
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.1568337928911214
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.05876826908940821
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.19472137613347532
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.10545314890702272
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.11118134340203292
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.1531012055709322
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.06774773789409533
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.19891003500272017
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.07066747070226986
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.11512693689901876
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.0592853252396537
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.18748108743973396
+fly_26	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.18315733494598452
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	-0.02514816972458056
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	-0.02184757958134749
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.10039785488812088
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.03075961307992907
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.01048804556854573
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.06497720805525795
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.08631804938918726
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.09375867671300275
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	4.046458430378207e-4
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.0119053903449475
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.06016925138403232
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.0358165120015281
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	-0.00211257912082042
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.02808523970138702
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01643699142717457
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.02644666311205708
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.01652581308903957
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.02190255503891484
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.05738181573687662
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.06105229653353657
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.01892277884811057
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.02572190230862081
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00256555591167432
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.03586805374600708
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	-0.00905594383719876
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.0674348945397672
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.07632548969074907
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.06681218502473216
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.0917009929742158
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.0923968015140612
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.00312388212543695
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.10786971199365072
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.18375373710966675
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.16773065707868495
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.16584834918114122
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.07292778874057163
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.15159510681448551
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.02817964594017819
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.14131628759254589
+fly_27	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.16605210769238846
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.10527939870128553
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	-0.11154892340815906
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.02201926622253328
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.15598009617331446
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.07161987576808272
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	1.9396157153774067e-4
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.10008672232164732
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.0721755639544749
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	-0.00366198622470056
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.04877438547396809
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.10973043358917606
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.0580385169606461
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01289793470666163
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.06808920223925484
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.04181499151149354
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.00681578620401462
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.05784172089510284
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.08764784620194549
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.04047012858863327
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00477101044781574
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.05874024231577596
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.11807073273831188
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	-0.04481726877231562
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.03402956604520017
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.0833218681836542
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.14908056361863403
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.05224838620716164
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.13713841224137446
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.06775062884115557
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.13069397658488063
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.12463489396691169
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.1472580851970406
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.05722289623918414
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	-0.00907144804121166
+fly_28	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.17236225474964867
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.1688925496917054
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.0684296532008954
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.01610751779609251
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.01505531338584326
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.01988201839500735
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.0289608469309969
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.1967599331852191
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.24682545255349103
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.06958351416394215
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.00413113487106072
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.07829306765586944
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.0907159295134115
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.05662377830438364
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.1850826784470466
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.1724498152363272
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.03536681052117974
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.03892775034577032
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.05520745954297044
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.08046226445466514
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.06889090872250181
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.10595965841731696
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.2176502584145555
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.06131045023024434
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.07224593804441147
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.07063776940254499
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.10840204948979104
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.03071542080382981
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.16499419657681136
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.25449746873221046
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.32335069779308045
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.6766516531552045
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.3783773423205064
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.05323714476070977
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.32574744516045
+fly_29	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.6853402222985712
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.10534060082724749
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.00653827964638175
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.1659425314607638
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.12989400365187903
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.2363620270101321
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.03395711434746356
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.12162750994785108
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.02618081253789448
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.123182510159369
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.0411830442100616
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.11793071431361128
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.1750560081622706
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.30172255936067754
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.04066816274343483
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.23464048040651675
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.04035572931228694
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.058340228897089
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.01834569238498535
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.00598446790392076
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.24667628619263643
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.3858880153956157
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	-0.01074555648974767
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.250576510199235
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.01964764806207247
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.00318609181859597
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	-0.05788154772565475
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.12263410882978389
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.04101698013549726
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.02889271731275823
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	-0.00843554440176863
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.27034951048876205
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	-0.04244418961578866
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.3270448177680123
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.33238802535950707
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.38639925527081315
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.1793143303935481
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.11908902055983242
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.35435230059645384
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.0569708094615364
+fly_30	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.0331067472223561
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.08837126283155493
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.105147129501743
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.04717550787787376
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.20213873883322636
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.0504698893987028
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.15500104700488346
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.093230189492183
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.08292381446698142
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.31886230033641494
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.03312687964244967
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.08463471794999965
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.02615027322343584
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.05808040742186105
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.1674728845696221
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.04483042721705149
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.21711478065199857
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.0986284877079929
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.13450677197758212
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.21591762212914625
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.01127165022898126
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.5620179615475355
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.4936799991094386
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.8439411563819673
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	1.0900561941953166
+fly_31	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.00356828875046086
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.35360824297373444
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	-0.3398331085735632
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.01650366914757823
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.09309909247339793
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.09998826222200614
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.13367227947653684
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.00739429924448503
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.4198451954762948
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.1829885630141686
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	-0.1817871662498698
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.0371855811543585
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.02480307977179924
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.12881714203845293
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.04206865632293211
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.01382935364614526
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.1514727662274658
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.12621951762142825
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	-0.11637843078477644
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.03010166286961579
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.00890206743427326
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.11923323948543112
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.03519886387996846
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.01211566676288673
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.06114595656073821
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.1802080400040408
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	-0.21765226897801196
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.09721387918765916
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.1061860929899906
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.18594614170232712
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.0357065142565664
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.04693275563139371
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.14804834532307662
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.09739430311419968
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.09463056798199591
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.27734264545284604
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.2361424178158361
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.195232496395231
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.04239274341760268
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	-0.17041550916289677
+fly_32	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.4257273961170701
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	7.923248063122497e-4
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.01765454395919003
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.02360781417672784
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.0574773722213295
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.0674822046037559
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.16202759757727736
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.01712257498678401
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.03206506651717349
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.05955879070489123
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.06175830097146526
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.05009395098199156
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.09973247948558447
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.1529898075254889
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.258757344638321
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.03311321252912491
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.08582655943924007
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.12256577734084018
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.11409241818574792
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.09163173345597855
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.14062489686567692
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.1785384773031405
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.3481806437235101
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01689680944797992
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.13398042278033348
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.12071537627444884
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.11551022001120174
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.10060854140696886
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.08116049562332607
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.0792507372407377
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.1153853734774176
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.01146306671179011
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.1273077678993038
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.2836236694619986
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.2670173008265964
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2617324475036755
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.3566685925301666
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.5093964230808026
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.02956111013074726
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.320439808955852
+fly_33	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.47743819262483467
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.3153171549102325
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.05301710523696345
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.02057536663777816
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.32579832588748464
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.32123805650522114
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.00579375930429768
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.25747956086455803
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.3607366324259948
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.06947032350240588
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	-0.01010958013915775
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.5236532092445897
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.4438409803877355
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.00615894662509255
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.3302410223082866
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.28189936502160745
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.05870749408661712
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	-0.02690130618503525
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.4556937502867305
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.3663498986647048
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.01754319530625607
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.2410638301322738
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.39222923980820346
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.32777574919428876
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	-0.03468994012105501
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.37573555192062547
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.38618178513278234
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.04725918868023113
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.4369686152482699
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.14337198229207482
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.8816916375484207
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.8201275469139669
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.9159001262284592
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.03369462602617072
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.42671549234232425
+fly_34	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.81207707262503
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.2208916227033607
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	-0.02054200845894064
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	-0.04396020183118963
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	-0.02059356372844474
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	-0.160668693459429
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	-0.00551583799892494
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.09253303596960127
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	-0.16763087983242353
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.10268065931906202
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	-0.00248450746505458
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.00153267614994593
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.00329578285794167
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.02177647274710237
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.01122528403444567
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.0097321023473471
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.03385654352728771
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.03306688057031282
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.02350602811362352
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.0271611456570025
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.01373084602616876
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.02225446369036672
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.00273909459884799
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00855777159816309
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.03886022449539948
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.09610191723836312
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.05487829572593025
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	7.979333238053549e-4
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	-0.04361005980336929
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	-0.0922853306027283
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	-0.02443727990187581
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.03863818693942448
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	-0.09953248285270376
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	-0.00229153821517965
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.06955963245158028
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.18717702557167887
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.2877109077985798
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.1132444601732256
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.01116101694869774
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.18705515431924535
+fly_35	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	-0.01074199449657967
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	-0.02341806244680156
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.11179859413899132
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.10960886045280745
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.22653809570826416
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.1192357780585503
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	-0.03103944059529167
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.06682723009112586
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.01749597045483791
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.02994908790318428
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.10178267012788576
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.04642005709005138
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.12120353592306432
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.05779397907153896
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.00158576122493903
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.01266242213844561
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.04182638984682353
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.04572124327260529
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.10249685605517876
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.06327338054577297
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.07356001475155836
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.04770345813938184
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	-0.00416999553371593
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.00646462436570861
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.04094296828103072
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.06173966919012398
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.1580594343872457
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.168978947530055
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.25728658570349255
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.20119143717253968
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.06269768588543735
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.04815513534389651
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.13196720748926327
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.21317718377453992
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.27023685535277686
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2104738479018939
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.08084400841342329
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.07369687481690788
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.03392497392602994
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.16653921628340537
+fly_36	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.18971001925583592
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.29865935298340796
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.16176974425919963
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.33322856393457334
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.2164750425540737
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.09184442587525364
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.21425024250705468
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.04091503594668176
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.18042383555755023
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.11718373896043544
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.0815917253087329
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.16789856876737794
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.08080445721035832
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.04311010375454779
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.11384000189796846
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.01704628734827028
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.11215717637048138
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.08077023983909477
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.04105077475787108
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.08876794460981986
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.05100703252094025
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	-0.00275782931194583
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.06112071292677139
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.0450440533848926
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.03761366309475759
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.08240867370423467
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.05572860235770416
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.06440825566838981
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.10284833120776596
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.00845301299574348
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.08981380606845328
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.00746486191961637
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.05830021429955637
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.20591761760589075
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.1688712085977671
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.16420826938202893
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.29062193992925706
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.32915272663083084
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.00261605456502395
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.2428240839074132
+fly_37	D. sechellia	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.323231080408838
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.34949171666112705
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.6207542581368845
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.30159802557845433
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.6091689632713047
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.5433958269934334
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.6079257431522934
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.14114624024551467
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.5689005097907234
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.4558634018398294
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.55888180877433
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.2271669376721031
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.532565884592286
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.5476129028640389
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.548582507552884
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.03285017755605209
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.5328390436603649
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.2472724416248059
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.29306227543420443
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	0.16184841579459328
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.3463653300443425
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.32664193573991385
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.3677345522182802
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.01212066139006117
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.32470861833154907
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.15332561287213992
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.3545773929834254
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.3720687573766281
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.10213873237842566
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.15421560267579398
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.30797129866404255
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.03700431369362363
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.13366577438833305
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.7382499266605478
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	1.1416678823623907
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.8453918108646752
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.8538704164630901
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	1.3725399758290877
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.04964262769560741
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	1.1740103042635672
+fly_38	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	1.421159153433182
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.09849064922625828
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.06356382431746263
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	caffeine 10mM	0.12457629736142738
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.0067260410050839
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.04070204149769781
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.14628401843266509
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.02303683700018267
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.1465814346825318
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.041202256633953153
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.00805153424320299
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	caffeine 10mM	0.0052901501451888
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.03187722276450115
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.02309288474202589
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.02884542634419067
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.02391489099016954
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.01104619769225434
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.00818204021648212
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	-0.01592938399273016
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	caffeine 10mM	-0.0133195588965382
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.04175738344120859
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.01721461828608289
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.00366450051676406
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.04925245790424052
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	-0.02691377216712533
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.05663009554984974
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.01606350036753346
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	caffeine 10mM	0.00341384102841507
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.04932564844111695
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.06123946747471476
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.05286283562054379
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.01815785500084749
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.02720877665457361
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	caffeine 10mM	0.01262656030664423
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.0805230039780693
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.1682596390153655
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.13637532494028867
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.14998902506701742
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.01075355450394206
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.05049792923619545
+fly_39	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.1164956781894344
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.02514856215544503
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	-0.00314745368178494
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.01077459309197288
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.012835976835287
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	0.01545223397839625
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.05529570592587271
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	-0.01019068268362162
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.0555468616405145
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	-0.0060154986253834
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.00373638121496939
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.03633322586407542
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.02490994159190183
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.04781589456219339
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.0306082213814129
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-0.00729185399390748
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.01393934884951288
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.00961101763593156
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.06116729877952025
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.02109107254296215
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	-0.01028862867445631
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.0891268326202394
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.02851207525490366
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.02100403615170273
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	-0.00932224853187142
+fly_40	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.01892820782348644
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.2880327178817459
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	0.5169970458797161
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.45761733758847767
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	0.580713897875231
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.02217277916317844
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.2996067966320867
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.6117261272401391
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.6380358236692613
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.5864662943677864
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	-0.00629519685123821
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.32059167245238307
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.3596192024108727
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.5743484023239491
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.3373037990006199
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	-3.909621430182637e-4
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.09273016703084988
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.3080089932480143
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.2401938166719026
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.18358725371524695
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.03308500439683527
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.784854836814701
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.6440967431057584
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.7255484565756405
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.03455543343213304
+fly_41	D. simulans	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.8802153494484819
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	hexanoic acid 0.5%	0.00652523552497096
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	octanoic acid 0.1%	-0.00425926824701219
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	grape juice	0.06240121432385247
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	water	0.295064879711222
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	noni juice	-0.02030764591244195
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	no stimulus	-0.03254438958659173
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	motor region	sucrose 200mM	0.03775381661003322
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	hexanoic acid 0.5%	0.0888281140588271
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	octanoic acid 0.1%	0.02331003711126716
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	grape juice	0.06662455096017073
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	water	0.13644269477421364
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	noni juice	0.03772046748105626
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	no stimulus	0.0237193973938425
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 1	sucrose 200mM	0.05377163466871929
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	hexanoic acid 0.5%	0.06040633202989302
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	octanoic acid 0.1%	0.02773256178603125
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	grape juice	0.05841192047027492
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	water	0.0788623630607798
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	noni juice	0.04395756363949078
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	no stimulus	0.01287928957086977
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	interneuron region 2	sucrose 200mM	0.05037096060696638
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	hexanoic acid 0.5%	0.21329408299997216
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	octanoic acid 0.1%	0.08023475138989765
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	grape juice	0.07548205345235454
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	water	0.1209511568019686
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	noni juice	0.07343694650315444
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	no stimulus	0.05772595370096012
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory central	sucrose 200mM	0.13155990379064633
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	grape juice	0.12349806955060484
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	water	0.2349121994948767
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	hexanoic acid 0.5%	0.24772664413589868
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	noni juice	0.11735845150900628
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	no stimulus	0.04000397170947491
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	octanoic acid 0.1%	0.11497472438696094
+fly_42	D. melanogaster	w*;nSyb-GAL4/+	female	labellum	sensory lateral	sucrose 200mM	0.1374782497009435
