@@ -6,7 +6,7 @@ This repository shares data and scripts behind the analyses presented in the fol
 
 - [Bertolini et al., 2024 bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.11.617601v1)
 
-- [Bertolini et al., 2025 Nature]()
+- [Bertolini et al., 2025 Nature](https://www.nature.com/articles/s41586-025-09766-6)
 
 ---
 
@@ -225,7 +225,7 @@ read_tsv(file = "../data/widefield_imaging.tsv", show_col_types = FALSE) %>%
          ) %>%
   select(everything()) -> df
 
-p <- df %>% 
+df %>% 
   plot_dff(x_var = species,
            order_x = rev(c("D. melanogaster", "D. sechellia")),
            facet_var = stimulus,
@@ -295,6 +295,9 @@ df %>%
 read_tsv(file = "../data/volumetric_imaging.tsv", show_col_types = FALSE) %>%
   norm_dff() %>% #normalise delta F/F per fly
   filter(ROI_quantified == "motor region") %>%
+  select(everything()) -> df
+
+df %>% 
   plot_dff(x_var = stimulus,
            order_x = rev(c("no stimulus", 
                            "water", 
@@ -386,7 +389,7 @@ read_tsv(file = "../data/behaviour_PER_assay.tsv", show_col_types = FALSE) %>%
   ) %>%
   select(everything()) -> df
 
-p <- df %>% 
+df %>% 
   plot_PER(
     x_var = food_substrate,
     order_x = c("200mM_sucrose", "grape_juice", "noni_juice"),
@@ -443,7 +446,7 @@ read_tsv(file = "../data/behaviour_PET_assay.tsv", show_col_types = FALSE) %>%
   ) %>%
   select(everything()) -> df
 
-p <- df %>% 
+df %>% 
   plot_PET(
     x_var = food_substrate,
     order_x = c("200mM_sucrose", "grape_juice", "noni_juice"),
