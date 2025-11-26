@@ -37,7 +37,7 @@ plot_PET <- function(df,
               data = df_summaries,
               aes(x = {{x_var}}, y = -5, label = n),
               size = 1.75) +
-    theme_PI() +
+    theme_PER() +
     xlab(NULL) +
     ylab('PET (sec)') +
     scale_x_discrete(limits = order_x) +

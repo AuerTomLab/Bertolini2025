@@ -27,7 +27,7 @@ plot_PER <- function(df,
     geom_errorbar(aes(ymin = mean - se, ymax = mean + se, colour = {{col_var}}), width = 0.2, linewidth = 0.2, alpha = 1,   show.legend = FALSE) +
     geom_jitter(inherit.aes = F, data = df, aes(x = {{x_var}}, y = `%_PER`, colour = {{col_var}}), size = 1, alpha = 0.6, width = 0.2, stroke = 0, height = 0, show.legend = FALSE) +
     geom_text(aes(y=0, label = n), size = 1.75, colour = 'white', vjust = 0) +
-    theme_PI() +
+    theme_PER() +
     xlab(NULL) +
     ylab('PER probability') +
     scale_x_discrete(limits = order_x) +
