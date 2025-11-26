@@ -11,9 +11,20 @@ knitr::opts_chunk$set(echo = TRUE)
 # libraries
 
 ```{r}
-library(tidyverse)
-library(ggh4x)
-library(ggpubr)
+if(!require("tidyverse")) {
+  install.packages("tidyverse")
+  library(tidyverse)
+}
+
+if(!require("ggh4x")) {
+  install.packages("ggh4x")
+  library(ggh4x)
+}
+
+if(!require("ggpubr")) {
+  install.packages("ggpubr")
+  library(ggpubr)
+}
 
 for (i in list.files("../R/", full.names = TRUE, pattern = '.R')) {
   source(i)

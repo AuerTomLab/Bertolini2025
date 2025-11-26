@@ -21,7 +21,10 @@ This repository shares data and scripts behind the analyses presented in the fol
 ## Usage example
 
 ```r
-library(tidyverse)
+if(!require("tidyverse")) {
+  install.packages("tidyverse")
+  library(tidyverse)
+}
 
 for (i in list.files("../R/", full.names = TRUE, pattern = '.R')) {
   source(i)
@@ -169,9 +172,7 @@ df %>%
     ymax = 40,
     order_x = order_species(),
     title = "Gr64f\nlabellum\nfemales"
-  ) +
-  force_panelsizes(rows = unit(20, "mm"),
-                   cols = unit(15, "mm"))
+  )
 ```
 
 ![](./output/taste_cell_counts_Dtrio.png)
@@ -233,9 +234,7 @@ df %>%
                             "denatonium benzoate 10mM", 
                             "caffeine 10mM", 
                             "noni juice"),
-           x_pos_N_label = 4) +
-  force_panelsizes(rows = unit(6, "mm"),
-                   cols = unit(40, "mm"))
+           x_pos_N_label = 4)
 ```
 
 ![](./output/widefield_neurophysiology.png)
@@ -315,9 +314,7 @@ df %>%
     axis.text.y = element_text(size = 6, vjust = 0.5, hjust=1, colour = "black", face = "plain"),
     strip.text.x = element_text(angle = 0, size = 6, colour = "black", hjust = 1, face = "italic"),
   ) +
-  ylab("normalised Δ F/F (%)") + #overwrites with normalised labelling
-  force_panelsizes(rows = unit(12, "mm"),
-                          cols = unit(40, "mm"))
+  ylab("normalised Δ F/F (%)") #overwrites with normalised labelling
 ```
 
 ![](./output/volumetric_neurophysiology.png)
@@ -394,9 +391,7 @@ df %>%
     x_var = food_substrate,
     order_x = c("200mM_sucrose", "grape_juice", "noni_juice"),
     title = "D. sechellia"    
-    ) +
-  force_panelsizes(rows = unit(20, "mm"),
-                          cols = unit(12, "mm"))
+    )
 ```
 
 ![](./output/PER_Dsec.png)
@@ -451,9 +446,7 @@ df %>%
     x_var = food_substrate,
     order_x = c("200mM_sucrose", "grape_juice", "noni_juice"),
     title = "D. melanogaster"    
-    ) +
-  force_panelsizes(rows = unit(20, "mm"),
-                          cols = unit(12, "mm"))
+    )
 ```
 
 ![](./output/PET_Dmel.png)
